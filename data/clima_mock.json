@@ -1,0 +1,9378 @@
+[
+  {
+    "fecha": "2025-07-01",
+    "zona": "Madrid Centro",
+    "temperatura": 37.7,
+    "humedad": 25,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-02",
+    "zona": "Madrid Centro",
+    "temperatura": 37.5,
+    "humedad": 29,
+    "viento": 6.1,
+    "lluvia": 1.8
+  },
+  {
+    "fecha": "2025-07-03",
+    "zona": "Madrid Centro",
+    "temperatura": 36.8,
+    "humedad": 35,
+    "viento": 7.9,
+    "lluvia": 1.1
+  },
+  {
+    "fecha": "2025-07-04",
+    "zona": "Madrid Centro",
+    "temperatura": 36.8,
+    "humedad": 40,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-05",
+    "zona": "Madrid Centro",
+    "temperatura": 37.0,
+    "humedad": 37,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-06",
+    "zona": "Madrid Centro",
+    "temperatura": 35.7,
+    "humedad": 37,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-07",
+    "zona": "Madrid Centro",
+    "temperatura": 35.5,
+    "humedad": 37,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-08",
+    "zona": "Madrid Centro",
+    "temperatura": 34.0,
+    "humedad": 44,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-09",
+    "zona": "Madrid Centro",
+    "temperatura": 35.7,
+    "humedad": 39,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-10",
+    "zona": "Madrid Centro",
+    "temperatura": 35.0,
+    "humedad": 33,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-11",
+    "zona": "Madrid Centro",
+    "temperatura": 32.2,
+    "humedad": 37,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-12",
+    "zona": "Madrid Centro",
+    "temperatura": 29.4,
+    "humedad": 47,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-13",
+    "zona": "Madrid Centro",
+    "temperatura": 31.9,
+    "humedad": 37,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-14",
+    "zona": "Madrid Centro",
+    "temperatura": 35.2,
+    "humedad": 28,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Madrid Centro",
+    "temperatura": 37.0,
+    "humedad": 28,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-16",
+    "zona": "Madrid Centro",
+    "temperatura": 38.0,
+    "humedad": 27,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-17",
+    "zona": "Madrid Centro",
+    "temperatura": 38.7,
+    "humedad": 21,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-18",
+    "zona": "Madrid Centro",
+    "temperatura": 34.6,
+    "humedad": 23,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-19",
+    "zona": "Madrid Centro",
+    "temperatura": 31.7,
+    "humedad": 35,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-20",
+    "zona": "Madrid Centro",
+    "temperatura": 30.8,
+    "humedad": 41,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-21",
+    "zona": "Madrid Centro",
+    "temperatura": 30.7,
+    "humedad": 27,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-22",
+    "zona": "Madrid Centro",
+    "temperatura": 34.4,
+    "humedad": 26,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-23",
+    "zona": "Madrid Centro",
+    "temperatura": 30.7,
+    "humedad": 32,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-24",
+    "zona": "Madrid Centro",
+    "temperatura": 29.4,
+    "humedad": 35,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-25",
+    "zona": "Madrid Centro",
+    "temperatura": 30.1,
+    "humedad": 33,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-26",
+    "zona": "Madrid Centro",
+    "temperatura": 32.8,
+    "humedad": 31,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-27",
+    "zona": "Madrid Centro",
+    "temperatura": 35.5,
+    "humedad": 27,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-28",
+    "zona": "Madrid Centro",
+    "temperatura": 33.3,
+    "humedad": 33,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-29",
+    "zona": "Madrid Centro",
+    "temperatura": 31.3,
+    "humedad": 36,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-30",
+    "zona": "Madrid Centro",
+    "temperatura": 33.0,
+    "humedad": 31,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-31",
+    "zona": "Madrid Centro",
+    "temperatura": 34.6,
+    "humedad": 40,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-01",
+    "zona": "Madrid Centro",
+    "temperatura": 32.6,
+    "humedad": 41,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-02",
+    "zona": "Madrid Centro",
+    "temperatura": 35.4,
+    "humedad": 38,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-03",
+    "zona": "Madrid Centro",
+    "temperatura": 37.3,
+    "humedad": 28,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-04",
+    "zona": "Madrid Centro",
+    "temperatura": 37.9,
+    "humedad": 27,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-05",
+    "zona": "Madrid Centro",
+    "temperatura": 40.1,
+    "humedad": 23,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-06",
+    "zona": "Madrid Centro",
+    "temperatura": 37.5,
+    "humedad": 27,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-07",
+    "zona": "Madrid Centro",
+    "temperatura": 39.1,
+    "humedad": 23,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-08",
+    "zona": "Madrid Centro",
+    "temperatura": 39.3,
+    "humedad": 21,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-09",
+    "zona": "Madrid Centro",
+    "temperatura": 38.9,
+    "humedad": 24,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-10",
+    "zona": "Madrid Centro",
+    "temperatura": 39.0,
+    "humedad": 25,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-11",
+    "zona": "Madrid Centro",
+    "temperatura": 39.5,
+    "humedad": 26,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-12",
+    "zona": "Madrid Centro",
+    "temperatura": 38.7,
+    "humedad": 30,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-13",
+    "zona": "Madrid Centro",
+    "temperatura": 37.0,
+    "humedad": 29,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-14",
+    "zona": "Madrid Centro",
+    "temperatura": 38.0,
+    "humedad": 32,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-15",
+    "zona": "Madrid Centro",
+    "temperatura": 38.7,
+    "humedad": 26,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-16",
+    "zona": "Madrid Centro",
+    "temperatura": 40.1,
+    "humedad": 22,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-17",
+    "zona": "Madrid Centro",
+    "temperatura": 40.3,
+    "humedad": 22,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-18",
+    "zona": "Madrid Centro",
+    "temperatura": 33.9,
+    "humedad": 25,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-19",
+    "zona": "Madrid Centro",
+    "temperatura": 33.0,
+    "humedad": 28,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-20",
+    "zona": "Madrid Centro",
+    "temperatura": 29.4,
+    "humedad": 37,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-21",
+    "zona": "Madrid Centro",
+    "temperatura": 29.9,
+    "humedad": 41,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Madrid Centro",
+    "temperatura": 31.5,
+    "humedad": 38,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-23",
+    "zona": "Madrid Centro",
+    "temperatura": 32.8,
+    "humedad": 39,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-24",
+    "zona": "Madrid Centro",
+    "temperatura": 34.2,
+    "humedad": 33,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-25",
+    "zona": "Madrid Centro",
+    "temperatura": 33.8,
+    "humedad": 33,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-26",
+    "zona": "Madrid Centro",
+    "temperatura": 35.1,
+    "humedad": 36,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-27",
+    "zona": "Madrid Centro",
+    "temperatura": 33.1,
+    "humedad": 38,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-28",
+    "zona": "Madrid Centro",
+    "temperatura": 27.7,
+    "humedad": 35,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-29",
+    "zona": "Madrid Centro",
+    "temperatura": 27.7,
+    "humedad": 41,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-30",
+    "zona": "Madrid Centro",
+    "temperatura": 32.2,
+    "humedad": 41,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-31",
+    "zona": "Madrid Centro",
+    "temperatura": 28.4,
+    "humedad": 44,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-01",
+    "zona": "Madrid Centro",
+    "temperatura": 23.8,
+    "humedad": 37,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-02",
+    "zona": "Madrid Centro",
+    "temperatura": 27.0,
+    "humedad": 40,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-03",
+    "zona": "Madrid Centro",
+    "temperatura": 31.3,
+    "humedad": 38,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-04",
+    "zona": "Madrid Centro",
+    "temperatura": 30.7,
+    "humedad": 39,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-05",
+    "zona": "Madrid Centro",
+    "temperatura": 31.8,
+    "humedad": 41,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-06",
+    "zona": "Madrid Centro",
+    "temperatura": 32.2,
+    "humedad": 45,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-07",
+    "zona": "Madrid Centro",
+    "temperatura": 25.6,
+    "humedad": 56,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-10",
+    "zona": "Madrid Centro",
+    "temperatura": 25.5,
+    "humedad": 54,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-11",
+    "zona": "Madrid Centro",
+    "temperatura": 29.3,
+    "humedad": 36,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-12",
+    "zona": "Madrid Centro",
+    "temperatura": 29.9,
+    "humedad": 40,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-13",
+    "zona": "Madrid Centro",
+    "temperatura": 29.9,
+    "humedad": 40,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-15",
+    "zona": "Madrid Centro",
+    "temperatura": 32.4,
+    "humedad": 38,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-16",
+    "zona": "Madrid Centro",
+    "temperatura": 33.9,
+    "humedad": 32,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-17",
+    "zona": "Madrid Centro",
+    "temperatura": 34.6,
+    "humedad": 29,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-18",
+    "zona": "Madrid Centro",
+    "temperatura": 34.8,
+    "humedad": 27,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-19",
+    "zona": "Madrid Centro",
+    "temperatura": 33.2,
+    "humedad": 34,
+    "viento": 13.0,
+    "lluvia": 0.6
+  },
+  {
+    "fecha": "2025-09-22",
+    "zona": "Madrid Centro",
+    "temperatura": 21.2,
+    "humedad": 35,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-23",
+    "zona": "Madrid Centro",
+    "temperatura": 21.6,
+    "humedad": 41,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-24",
+    "zona": "Madrid Centro",
+    "temperatura": 20.6,
+    "humedad": 38,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-25",
+    "zona": "Madrid Centro",
+    "temperatura": 22.8,
+    "humedad": 40,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-26",
+    "zona": "Madrid Centro",
+    "temperatura": 26.0,
+    "humedad": 31,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-27",
+    "zona": "Madrid Centro",
+    "temperatura": 25.7,
+    "humedad": 36,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-28",
+    "zona": "Madrid Centro",
+    "temperatura": 21.6,
+    "humedad": 52,
+    "viento": 5.0,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-20",
+    "zona": "Madrid Centro",
+    "temperatura": 9.5,
+    "humedad": 91,
+    "viento": 4.0,
+    "lluvia": 7.4
+  },
+  {
+    "fecha": "2025-12-21",
+    "zona": "Madrid Centro",
+    "temperatura": 7.3,
+    "humedad": 87,
+    "viento": 7.9,
+    "lluvia": 0.4
+  },
+  {
+    "fecha": "2025-12-22",
+    "zona": "Madrid Centro",
+    "temperatura": 6.1,
+    "humedad": 88,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-23",
+    "zona": "Madrid Centro",
+    "temperatura": 6.1,
+    "humedad": 86,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-24",
+    "zona": "Madrid Centro",
+    "temperatura": 9.3,
+    "humedad": 77,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-25",
+    "zona": "Madrid Centro",
+    "temperatura": 6.1,
+    "humedad": 70,
+    "viento": 9.0,
+    "lluvia": 0.3
+  },
+  {
+    "fecha": "2025-12-26",
+    "zona": "Madrid Centro",
+    "temperatura": 9.0,
+    "humedad": 74,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-27",
+    "zona": "Madrid Centro",
+    "temperatura": 10.1,
+    "humedad": 80,
+    "viento": 6.1,
+    "lluvia": 0.6
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Madrid Centro",
+    "temperatura": 11.3,
+    "humedad": 72,
+    "viento": 6.8,
+    "lluvia": 0.4
+  },
+  {
+    "fecha": "2025-12-29",
+    "zona": "Madrid Centro",
+    "temperatura": 11.4,
+    "humedad": 74,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-30",
+    "zona": "Madrid Centro",
+    "temperatura": 9.4,
+    "humedad": 85,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-31",
+    "zona": "Madrid Centro",
+    "temperatura": 8.1,
+    "humedad": 78,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-01",
+    "zona": "Madrid Barajas",
+    "temperatura": 38.4,
+    "humedad": 27,
+    "viento": 14.0,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-07-02",
+    "zona": "Madrid Barajas",
+    "temperatura": 38.4,
+    "humedad": 29,
+    "viento": 7.9,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-07-03",
+    "zona": "Madrid Barajas",
+    "temperatura": 38.0,
+    "humedad": 35,
+    "viento": 13.0,
+    "lluvia": 3.0
+  },
+  {
+    "fecha": "2025-07-04",
+    "zona": "Madrid Barajas",
+    "temperatura": 37.4,
+    "humedad": 37,
+    "viento": 6.8,
+    "lluvia": 3.2
+  },
+  {
+    "fecha": "2025-07-05",
+    "zona": "Madrid Barajas",
+    "temperatura": 36.5,
+    "humedad": 39,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-06",
+    "zona": "Madrid Barajas",
+    "temperatura": 36.6,
+    "humedad": 37,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-07",
+    "zona": "Madrid Barajas",
+    "temperatura": 37.1,
+    "humedad": 36,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-08",
+    "zona": "Madrid Barajas",
+    "temperatura": 35.8,
+    "humedad": 38,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-09",
+    "zona": "Madrid Barajas",
+    "temperatura": 36.4,
+    "humedad": 36,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-10",
+    "zona": "Madrid Barajas",
+    "temperatura": 35.7,
+    "humedad": 32,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-11",
+    "zona": "Madrid Barajas",
+    "temperatura": 32.6,
+    "humedad": 34,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-12",
+    "zona": "Madrid Barajas",
+    "temperatura": 29.9,
+    "humedad": 41,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-13",
+    "zona": "Madrid Barajas",
+    "temperatura": 32.5,
+    "humedad": 34,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-14",
+    "zona": "Madrid Barajas",
+    "temperatura": 36.1,
+    "humedad": 27,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Madrid Barajas",
+    "temperatura": 37.7,
+    "humedad": 26,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-16",
+    "zona": "Madrid Barajas",
+    "temperatura": 39.1,
+    "humedad": 28,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-17",
+    "zona": "Madrid Barajas",
+    "temperatura": 39.5,
+    "humedad": 23,
+    "viento": 16.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-18",
+    "zona": "Madrid Barajas",
+    "temperatura": 35.2,
+    "humedad": 22,
+    "viento": 20.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-19",
+    "zona": "Madrid Barajas",
+    "temperatura": 31.8,
+    "humedad": 31,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-20",
+    "zona": "Madrid Barajas",
+    "temperatura": 30.8,
+    "humedad": 37,
+    "viento": 23.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-21",
+    "zona": "Madrid Barajas",
+    "temperatura": 31.8,
+    "humedad": 26,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-22",
+    "zona": "Madrid Barajas",
+    "temperatura": 34.4,
+    "humedad": 23,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-23",
+    "zona": "Madrid Barajas",
+    "temperatura": 32.0,
+    "humedad": 32,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-24",
+    "zona": "Madrid Barajas",
+    "temperatura": 30.3,
+    "humedad": 33,
+    "viento": 16.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-25",
+    "zona": "Madrid Barajas",
+    "temperatura": 31.3,
+    "humedad": 33,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-26",
+    "zona": "Madrid Barajas",
+    "temperatura": 33.9,
+    "humedad": 32,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-27",
+    "zona": "Madrid Barajas",
+    "temperatura": 36.7,
+    "humedad": 26,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-28",
+    "zona": "Madrid Barajas",
+    "temperatura": 34.2,
+    "humedad": 32,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-29",
+    "zona": "Madrid Barajas",
+    "temperatura": 32.6,
+    "humedad": 34,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-30",
+    "zona": "Madrid Barajas",
+    "temperatura": 34.2,
+    "humedad": 30,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-31",
+    "zona": "Madrid Barajas",
+    "temperatura": 35.5,
+    "humedad": 33,
+    "viento": 6.1,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-08-01",
+    "zona": "Madrid Barajas",
+    "temperatura": 32.4,
+    "humedad": 40,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-02",
+    "zona": "Madrid Barajas",
+    "temperatura": 35.8,
+    "humedad": 35,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-03",
+    "zona": "Madrid Barajas",
+    "temperatura": 38.1,
+    "humedad": 27,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-04",
+    "zona": "Madrid Barajas",
+    "temperatura": 38.6,
+    "humedad": 28,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-05",
+    "zona": "Madrid Barajas",
+    "temperatura": 40.1,
+    "humedad": 24,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-06",
+    "zona": "Madrid Barajas",
+    "temperatura": 38.2,
+    "humedad": 27,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-07",
+    "zona": "Madrid Barajas",
+    "temperatura": 39.7,
+    "humedad": 23,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-08",
+    "zona": "Madrid Barajas",
+    "temperatura": 40.2,
+    "humedad": 22,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-09",
+    "zona": "Madrid Barajas",
+    "temperatura": 39.9,
+    "humedad": 26,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-10",
+    "zona": "Madrid Barajas",
+    "temperatura": 39.1,
+    "humedad": 25,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-11",
+    "zona": "Madrid Barajas",
+    "temperatura": 40.0,
+    "humedad": 25,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-12",
+    "zona": "Madrid Barajas",
+    "temperatura": 40.4,
+    "humedad": 26,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-13",
+    "zona": "Madrid Barajas",
+    "temperatura": 37.3,
+    "humedad": 31,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-14",
+    "zona": "Madrid Barajas",
+    "temperatura": 38.6,
+    "humedad": 32,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-15",
+    "zona": "Madrid Barajas",
+    "temperatura": 39.6,
+    "humedad": 26,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-16",
+    "zona": "Madrid Barajas",
+    "temperatura": 40.9,
+    "humedad": 23,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-17",
+    "zona": "Madrid Barajas",
+    "temperatura": 41.2,
+    "humedad": 24,
+    "viento": 15.8,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-08-18",
+    "zona": "Madrid Barajas",
+    "temperatura": 35.9,
+    "humedad": 25,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-19",
+    "zona": "Madrid Barajas",
+    "temperatura": 33.2,
+    "humedad": 31,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-20",
+    "zona": "Madrid Barajas",
+    "temperatura": 29.8,
+    "humedad": 37,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-21",
+    "zona": "Madrid Barajas",
+    "temperatura": 30.1,
+    "humedad": 38,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Madrid Barajas",
+    "temperatura": 32.0,
+    "humedad": 38,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-23",
+    "zona": "Madrid Barajas",
+    "temperatura": 33.8,
+    "humedad": 33,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-24",
+    "zona": "Madrid Barajas",
+    "temperatura": 34.4,
+    "humedad": 29,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-25",
+    "zona": "Madrid Barajas",
+    "temperatura": 34.8,
+    "humedad": 29,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-26",
+    "zona": "Madrid Barajas",
+    "temperatura": 35.5,
+    "humedad": 37,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-27",
+    "zona": "Madrid Barajas",
+    "temperatura": 34.1,
+    "humedad": 37,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-28",
+    "zona": "Madrid Barajas",
+    "temperatura": 28.0,
+    "humedad": 33,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-29",
+    "zona": "Madrid Barajas",
+    "temperatura": 29.3,
+    "humedad": 37,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-30",
+    "zona": "Madrid Barajas",
+    "temperatura": 32.5,
+    "humedad": 38,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-31",
+    "zona": "Madrid Barajas",
+    "temperatura": 29.0,
+    "humedad": 43,
+    "viento": 19.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-01",
+    "zona": "Madrid Barajas",
+    "temperatura": 25.0,
+    "humedad": 38,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-02",
+    "zona": "Madrid Barajas",
+    "temperatura": 27.8,
+    "humedad": 37,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-03",
+    "zona": "Madrid Barajas",
+    "temperatura": 32.0,
+    "humedad": 40,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-04",
+    "zona": "Madrid Barajas",
+    "temperatura": 31.4,
+    "humedad": 33,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-05",
+    "zona": "Madrid Barajas",
+    "temperatura": 33.1,
+    "humedad": 37,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-06",
+    "zona": "Madrid Barajas",
+    "temperatura": 33.0,
+    "humedad": 43,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-07",
+    "zona": "Madrid Barajas",
+    "temperatura": 27.2,
+    "humedad": 49,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-08",
+    "zona": "Madrid Barajas",
+    "temperatura": 29.5,
+    "humedad": 42,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-09",
+    "zona": "Madrid Barajas",
+    "temperatura": 28.2,
+    "humedad": 43,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-10",
+    "zona": "Madrid Barajas",
+    "temperatura": 26.9,
+    "humedad": 47,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-11",
+    "zona": "Madrid Barajas",
+    "temperatura": 30.4,
+    "humedad": 45,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-12",
+    "zona": "Madrid Barajas",
+    "temperatura": 30.9,
+    "humedad": 41,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-13",
+    "zona": "Madrid Barajas",
+    "temperatura": 30.9,
+    "humedad": 38,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-14",
+    "zona": "Madrid Barajas",
+    "temperatura": 32.4,
+    "humedad": 33,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-15",
+    "zona": "Madrid Barajas",
+    "temperatura": 33.8,
+    "humedad": 36,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-16",
+    "zona": "Madrid Barajas",
+    "temperatura": 35.0,
+    "humedad": 34,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-17",
+    "zona": "Madrid Barajas",
+    "temperatura": 35.6,
+    "humedad": 30,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-18",
+    "zona": "Madrid Barajas",
+    "temperatura": 36.8,
+    "humedad": 32,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-19",
+    "zona": "Madrid Barajas",
+    "temperatura": 34.9,
+    "humedad": 33,
+    "viento": 23.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-09-20",
+    "zona": "Madrid Barajas",
+    "temperatura": 32.3,
+    "humedad": 47,
+    "viento": 6.1,
+    "lluvia": 1.2
+  },
+  {
+    "fecha": "2025-09-21",
+    "zona": "Madrid Barajas",
+    "temperatura": 25.9,
+    "humedad": 36,
+    "viento": 22.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-22",
+    "zona": "Madrid Barajas",
+    "temperatura": 22.4,
+    "humedad": 37,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-23",
+    "zona": "Madrid Barajas",
+    "temperatura": 23.0,
+    "humedad": 39,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-24",
+    "zona": "Madrid Barajas",
+    "temperatura": 22.5,
+    "humedad": 40,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-25",
+    "zona": "Madrid Barajas",
+    "temperatura": 24.7,
+    "humedad": 37,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-26",
+    "zona": "Madrid Barajas",
+    "temperatura": 26.8,
+    "humedad": 33,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-27",
+    "zona": "Madrid Barajas",
+    "temperatura": 26.6,
+    "humedad": 34,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-28",
+    "zona": "Madrid Barajas",
+    "temperatura": 22.4,
+    "humedad": 51,
+    "viento": 7.9,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-09-29",
+    "zona": "Madrid Barajas",
+    "temperatura": 24.4,
+    "humedad": 52,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-30",
+    "zona": "Madrid Barajas",
+    "temperatura": 23.8,
+    "humedad": 53,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-01",
+    "zona": "Madrid Barajas",
+    "temperatura": 27.8,
+    "humedad": 52,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-02",
+    "zona": "Madrid Barajas",
+    "temperatura": 29.4,
+    "humedad": 31,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-03",
+    "zona": "Madrid Barajas",
+    "temperatura": 29.0,
+    "humedad": 34,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-04",
+    "zona": "Madrid Barajas",
+    "temperatura": 30.8,
+    "humedad": 40,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-05",
+    "zona": "Madrid Barajas",
+    "temperatura": 26.3,
+    "humedad": 43,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-06",
+    "zona": "Madrid Barajas",
+    "temperatura": 26.8,
+    "humedad": 48,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-07",
+    "zona": "Madrid Barajas",
+    "temperatura": 29.3,
+    "humedad": 47,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-08",
+    "zona": "Madrid Barajas",
+    "temperatura": 28.9,
+    "humedad": 45,
+    "viento": 6.8,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-10-09",
+    "zona": "Madrid Barajas",
+    "temperatura": 26.4,
+    "humedad": 41,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Madrid Barajas",
+    "temperatura": 23.5,
+    "humedad": 53,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-11",
+    "zona": "Madrid Barajas",
+    "temperatura": 24.7,
+    "humedad": 54,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-12",
+    "zona": "Madrid Barajas",
+    "temperatura": 23.9,
+    "humedad": 58,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-13",
+    "zona": "Madrid Barajas",
+    "temperatura": 24.9,
+    "humedad": 60,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-14",
+    "zona": "Madrid Barajas",
+    "temperatura": 25.7,
+    "humedad": 58,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-15",
+    "zona": "Madrid Barajas",
+    "temperatura": 26.3,
+    "humedad": 54,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-16",
+    "zona": "Madrid Barajas",
+    "temperatura": 25.8,
+    "humedad": 49,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-17",
+    "zona": "Madrid Barajas",
+    "temperatura": 23.0,
+    "humedad": 62,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-18",
+    "zona": "Madrid Barajas",
+    "temperatura": 25.5,
+    "humedad": 55,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-19",
+    "zona": "Madrid Barajas",
+    "temperatura": 23.7,
+    "humedad": 54,
+    "viento": 9.0,
+    "lluvia": 0.5
+  },
+  {
+    "fecha": "2025-10-20",
+    "zona": "Madrid Barajas",
+    "temperatura": 22.0,
+    "humedad": 64,
+    "viento": 20.9,
+    "lluvia": 1.4
+  },
+  {
+    "fecha": "2025-10-21",
+    "zona": "Madrid Barajas",
+    "temperatura": 23.1,
+    "humedad": 80,
+    "viento": 15.1,
+    "lluvia": 0.3
+  },
+  {
+    "fecha": "2025-10-22",
+    "zona": "Madrid Barajas",
+    "temperatura": 22.7,
+    "humedad": 67,
+    "viento": 23.0,
+    "lluvia": 0.7
+  },
+  {
+    "fecha": "2025-10-23",
+    "zona": "Madrid Barajas",
+    "temperatura": 23.7,
+    "humedad": 45,
+    "viento": 25.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-24",
+    "zona": "Madrid Barajas",
+    "temperatura": 22.4,
+    "humedad": 66,
+    "viento": 20.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-25",
+    "zona": "Madrid Barajas",
+    "temperatura": 21.6,
+    "humedad": 68,
+    "viento": 15.1,
+    "lluvia": 2.9
+  },
+  {
+    "fecha": "2025-10-26",
+    "zona": "Madrid Barajas",
+    "temperatura": 18.7,
+    "humedad": 62,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-27",
+    "zona": "Madrid Barajas",
+    "temperatura": 19.0,
+    "humedad": 60,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-28",
+    "zona": "Madrid Barajas",
+    "temperatura": 21.5,
+    "humedad": 54,
+    "viento": 2.9,
+    "lluvia": 9.0
+  },
+  {
+    "fecha": "2025-10-29",
+    "zona": "Madrid Barajas",
+    "temperatura": 14.4,
+    "humedad": 96,
+    "viento": 2.9,
+    "lluvia": 3.9
+  },
+  {
+    "fecha": "2025-10-30",
+    "zona": "Madrid Barajas",
+    "temperatura": 16.6,
+    "humedad": 86,
+    "viento": 9.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-10-31",
+    "zona": "Madrid Barajas",
+    "temperatura": 16.8,
+    "humedad": 84,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-01",
+    "zona": "Madrid Barajas",
+    "temperatura": 18.8,
+    "humedad": 72,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-02",
+    "zona": "Madrid Barajas",
+    "temperatura": 18.8,
+    "humedad": 52,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-03",
+    "zona": "Madrid Barajas",
+    "temperatura": 20.0,
+    "humedad": 58,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-04",
+    "zona": "Madrid Barajas",
+    "temperatura": 20.1,
+    "humedad": 71,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-05",
+    "zona": "Madrid Barajas",
+    "temperatura": 17.3,
+    "humedad": 79,
+    "viento": 11.2,
+    "lluvia": 0.9
+  },
+  {
+    "fecha": "2025-11-06",
+    "zona": "Madrid Barajas",
+    "temperatura": 14.8,
+    "humedad": 70,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-07",
+    "zona": "Madrid Barajas",
+    "temperatura": 12.8,
+    "humedad": 89,
+    "viento": 14.0,
+    "lluvia": 6.3
+  },
+  {
+    "fecha": "2025-11-08",
+    "zona": "Madrid Barajas",
+    "temperatura": 16.1,
+    "humedad": 63,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-09",
+    "zona": "Madrid Barajas",
+    "temperatura": 15.3,
+    "humedad": 69,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-10",
+    "zona": "Madrid Barajas",
+    "temperatura": 16.3,
+    "humedad": 73,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-11",
+    "zona": "Madrid Barajas",
+    "temperatura": 16.8,
+    "humedad": 78,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-12",
+    "zona": "Madrid Barajas",
+    "temperatura": 24.5,
+    "humedad": 56,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-13",
+    "zona": "Madrid Barajas",
+    "temperatura": 15.3,
+    "humedad": 88,
+    "viento": 11.2,
+    "lluvia": 18.3
+  },
+  {
+    "fecha": "2025-11-14",
+    "zona": "Madrid Barajas",
+    "temperatura": 15.4,
+    "humedad": 82,
+    "viento": 18.0,
+    "lluvia": 2.5
+  },
+  {
+    "fecha": "2025-11-15",
+    "zona": "Madrid Barajas",
+    "temperatura": 13.4,
+    "humedad": 90,
+    "viento": 15.1,
+    "lluvia": 6.7
+  },
+  {
+    "fecha": "2025-11-16",
+    "zona": "Madrid Barajas",
+    "temperatura": 15.2,
+    "humedad": 76,
+    "viento": 15.8,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-11-17",
+    "zona": "Madrid Barajas",
+    "temperatura": 15.1,
+    "humedad": 79,
+    "viento": 6.1,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Madrid Barajas",
+    "temperatura": 15.9,
+    "humedad": 72,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-19",
+    "zona": "Madrid Barajas",
+    "temperatura": 12.1,
+    "humedad": 69,
+    "viento": 0.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-20",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.4,
+    "humedad": 65,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-21",
+    "zona": "Madrid Barajas",
+    "temperatura": 9.5,
+    "humedad": 53,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-22",
+    "zona": "Madrid Barajas",
+    "temperatura": 10.3,
+    "humedad": 65,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-23",
+    "zona": "Madrid Barajas",
+    "temperatura": 12.7,
+    "humedad": 71,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-24",
+    "zona": "Madrid Barajas",
+    "temperatura": 12.5,
+    "humedad": 85,
+    "viento": 27.0,
+    "lluvia": 1.8
+  },
+  {
+    "fecha": "2025-11-25",
+    "zona": "Madrid Barajas",
+    "temperatura": 13.0,
+    "humedad": 57,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-26",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.9,
+    "humedad": 56,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-27",
+    "zona": "Madrid Barajas",
+    "temperatura": 13.9,
+    "humedad": 67,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-28",
+    "zona": "Madrid Barajas",
+    "temperatura": 14.6,
+    "humedad": 72,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-29",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.5,
+    "humedad": 77,
+    "viento": 6.1,
+    "lluvia": 2.6
+  },
+  {
+    "fecha": "2025-11-30",
+    "zona": "Madrid Barajas",
+    "temperatura": 12.4,
+    "humedad": 71,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-01",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.9,
+    "humedad": 73,
+    "viento": 6.8,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-02",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.6,
+    "humedad": 82,
+    "viento": 6.1,
+    "lluvia": 2.7
+  },
+  {
+    "fecha": "2025-12-03",
+    "zona": "Madrid Barajas",
+    "temperatura": 10.9,
+    "humedad": 65,
+    "viento": 13.0,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-04",
+    "zona": "Madrid Barajas",
+    "temperatura": 12.4,
+    "humedad": 70,
+    "viento": 22.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-05",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.8,
+    "humedad": 77,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-06",
+    "zona": "Madrid Barajas",
+    "temperatura": 15.8,
+    "humedad": 81,
+    "viento": 19.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-07",
+    "zona": "Madrid Barajas",
+    "temperatura": 12.8,
+    "humedad": 75,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-08",
+    "zona": "Madrid Barajas",
+    "temperatura": 14.1,
+    "humedad": 77,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-09",
+    "zona": "Madrid Barajas",
+    "temperatura": 13.4,
+    "humedad": 81,
+    "viento": 4.0,
+    "lluvia": 8.0
+  },
+  {
+    "fecha": "2025-12-10",
+    "zona": "Madrid Barajas",
+    "temperatura": 10.5,
+    "humedad": 95,
+    "viento": 2.9,
+    "lluvia": 2.4
+  },
+  {
+    "fecha": "2025-12-11",
+    "zona": "Madrid Barajas",
+    "temperatura": 13.4,
+    "humedad": 86,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-12",
+    "zona": "Madrid Barajas",
+    "temperatura": 10.5,
+    "humedad": 94,
+    "viento": 7.9,
+    "lluvia": 1.5
+  },
+  {
+    "fecha": "2025-12-13",
+    "zona": "Madrid Barajas",
+    "temperatura": 15.9,
+    "humedad": 70,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-14",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.3,
+    "humedad": 80,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-15",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.7,
+    "humedad": 81,
+    "viento": 6.8,
+    "lluvia": 8.8
+  },
+  {
+    "fecha": "2025-12-16",
+    "zona": "Madrid Barajas",
+    "temperatura": 9.4,
+    "humedad": 95,
+    "viento": 7.9,
+    "lluvia": 1.7
+  },
+  {
+    "fecha": "2025-12-17",
+    "zona": "Madrid Barajas",
+    "temperatura": 14.6,
+    "humedad": 75,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-18",
+    "zona": "Madrid Barajas",
+    "temperatura": 12.1,
+    "humedad": 81,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-19",
+    "zona": "Madrid Barajas",
+    "temperatura": 10.8,
+    "humedad": 86,
+    "viento": 2.2,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-20",
+    "zona": "Madrid Barajas",
+    "temperatura": 9.7,
+    "humedad": 88,
+    "viento": 11.2,
+    "lluvia": 4.9
+  },
+  {
+    "fecha": "2025-12-21",
+    "zona": "Madrid Barajas",
+    "temperatura": 8.3,
+    "humedad": 82,
+    "viento": 18.0,
+    "lluvia": 1.0
+  },
+  {
+    "fecha": "2025-12-22",
+    "zona": "Madrid Barajas",
+    "temperatura": 6.9,
+    "humedad": 88,
+    "viento": 11.9,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-23",
+    "zona": "Madrid Barajas",
+    "temperatura": 7.0,
+    "humedad": 90,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-24",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.1,
+    "humedad": 73,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-25",
+    "zona": "Madrid Barajas",
+    "temperatura": 4.6,
+    "humedad": 72,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-26",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.5,
+    "humedad": 75,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-27",
+    "zona": "Madrid Barajas",
+    "temperatura": 11.1,
+    "humedad": 80,
+    "viento": 6.1,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Madrid Barajas",
+    "temperatura": 12.1,
+    "humedad": 68,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-29",
+    "zona": "Madrid Barajas",
+    "temperatura": 12.8,
+    "humedad": 73,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-30",
+    "zona": "Madrid Barajas",
+    "temperatura": 10.6,
+    "humedad": 82,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-31",
+    "zona": "Madrid Barajas",
+    "temperatura": 10.0,
+    "humedad": 77,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-01",
+    "zona": "Getafe",
+    "temperatura": 38.0,
+    "humedad": 29,
+    "viento": 10.1,
+    "lluvia": 0.9
+  },
+  {
+    "fecha": "2025-07-02",
+    "zona": "Getafe",
+    "temperatura": 38.4,
+    "humedad": 32,
+    "viento": 10.1,
+    "lluvia": 1.5
+  },
+  {
+    "fecha": "2025-07-03",
+    "zona": "Getafe",
+    "temperatura": 37.6,
+    "humedad": 36,
+    "viento": 10.1,
+    "lluvia": 5.3
+  },
+  {
+    "fecha": "2025-07-04",
+    "zona": "Getafe",
+    "temperatura": 37.2,
+    "humedad": 41,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-05",
+    "zona": "Getafe",
+    "temperatura": 37.0,
+    "humedad": 40,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-06",
+    "zona": "Getafe",
+    "temperatura": 36.2,
+    "humedad": 39,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-07",
+    "zona": "Getafe",
+    "temperatura": 36.8,
+    "humedad": 35,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-08",
+    "zona": "Getafe",
+    "temperatura": 36.1,
+    "humedad": 40,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-09",
+    "zona": "Getafe",
+    "temperatura": 36.6,
+    "humedad": 38,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-10",
+    "zona": "Getafe",
+    "temperatura": 35.6,
+    "humedad": 30,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-11",
+    "zona": "Getafe",
+    "temperatura": 32.0,
+    "humedad": 36,
+    "viento": 22.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-12",
+    "zona": "Getafe",
+    "temperatura": 29.3,
+    "humedad": 47,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-13",
+    "zona": "Getafe",
+    "temperatura": 32.3,
+    "humedad": 37,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-14",
+    "zona": "Getafe",
+    "temperatura": 36.0,
+    "humedad": 28,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Getafe",
+    "temperatura": 37.6,
+    "humedad": 29,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-16",
+    "zona": "Getafe",
+    "temperatura": 39.1,
+    "humedad": 32,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-17",
+    "zona": "Getafe",
+    "temperatura": 39.4,
+    "humedad": 20,
+    "viento": 16.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-18",
+    "zona": "Getafe",
+    "temperatura": 34.4,
+    "humedad": 24,
+    "viento": 22.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-19",
+    "zona": "Getafe",
+    "temperatura": 31.4,
+    "humedad": 35,
+    "viento": 20.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-20",
+    "zona": "Getafe",
+    "temperatura": 30.5,
+    "humedad": 41,
+    "viento": 24.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-21",
+    "zona": "Getafe",
+    "temperatura": 32.2,
+    "humedad": 27,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-22",
+    "zona": "Getafe",
+    "temperatura": 34.5,
+    "humedad": 25,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-23",
+    "zona": "Getafe",
+    "temperatura": 31.2,
+    "humedad": 35,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-24",
+    "zona": "Getafe",
+    "temperatura": 30.2,
+    "humedad": 33,
+    "viento": 25.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-25",
+    "zona": "Getafe",
+    "temperatura": 30.8,
+    "humedad": 33,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-26",
+    "zona": "Getafe",
+    "temperatura": 33.8,
+    "humedad": 30,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-27",
+    "zona": "Getafe",
+    "temperatura": 36.2,
+    "humedad": 29,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-28",
+    "zona": "Getafe",
+    "temperatura": 34.4,
+    "humedad": 31,
+    "viento": 19.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-29",
+    "zona": "Getafe",
+    "temperatura": 32.4,
+    "humedad": 34,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-30",
+    "zona": "Getafe",
+    "temperatura": 34.0,
+    "humedad": 30,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-31",
+    "zona": "Getafe",
+    "temperatura": 35.2,
+    "humedad": 36,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-01",
+    "zona": "Getafe",
+    "temperatura": 31.5,
+    "humedad": 41,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-02",
+    "zona": "Getafe",
+    "temperatura": 36.8,
+    "humedad": 35,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-03",
+    "zona": "Getafe",
+    "temperatura": 38.0,
+    "humedad": 28,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-04",
+    "zona": "Getafe",
+    "temperatura": 38.5,
+    "humedad": 35,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-05",
+    "zona": "Getafe",
+    "temperatura": 39.9,
+    "humedad": 24,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-06",
+    "zona": "Getafe",
+    "temperatura": 38.0,
+    "humedad": 25,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-07",
+    "zona": "Getafe",
+    "temperatura": 39.6,
+    "humedad": 21,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-08",
+    "zona": "Getafe",
+    "temperatura": 39.7,
+    "humedad": 25,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-09",
+    "zona": "Getafe",
+    "temperatura": 39.5,
+    "humedad": 29,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-10",
+    "zona": "Getafe",
+    "temperatura": 38.9,
+    "humedad": 26,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-11",
+    "zona": "Getafe",
+    "temperatura": 40.0,
+    "humedad": 26,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-12",
+    "zona": "Getafe",
+    "temperatura": 40.6,
+    "humedad": 27,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-13",
+    "zona": "Getafe",
+    "temperatura": 37.6,
+    "humedad": 31,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-14",
+    "zona": "Getafe",
+    "temperatura": 39.0,
+    "humedad": 31,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-15",
+    "zona": "Getafe",
+    "temperatura": 39.5,
+    "humedad": 28,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-16",
+    "zona": "Getafe",
+    "temperatura": 40.8,
+    "humedad": 22,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-17",
+    "zona": "Getafe",
+    "temperatura": 40.6,
+    "humedad": 23,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-18",
+    "zona": "Getafe",
+    "temperatura": 35.2,
+    "humedad": 20,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-19",
+    "zona": "Getafe",
+    "temperatura": 32.6,
+    "humedad": 30,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-20",
+    "zona": "Getafe",
+    "temperatura": 30.4,
+    "humedad": 38,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-21",
+    "zona": "Getafe",
+    "temperatura": 30.4,
+    "humedad": 36,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Getafe",
+    "temperatura": 31.4,
+    "humedad": 39,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-23",
+    "zona": "Getafe",
+    "temperatura": 34.0,
+    "humedad": 36,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-24",
+    "zona": "Getafe",
+    "temperatura": 34.7,
+    "humedad": 27,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-25",
+    "zona": "Getafe",
+    "temperatura": 35.1,
+    "humedad": 34,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-26",
+    "zona": "Getafe",
+    "temperatura": 35.2,
+    "humedad": 38,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-27",
+    "zona": "Getafe",
+    "temperatura": 33.2,
+    "humedad": 33,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-28",
+    "zona": "Getafe",
+    "temperatura": 27.5,
+    "humedad": 36,
+    "viento": 22.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-29",
+    "zona": "Getafe",
+    "temperatura": 29.6,
+    "humedad": 42,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-30",
+    "zona": "Getafe",
+    "temperatura": 32.3,
+    "humedad": 39,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-31",
+    "zona": "Getafe",
+    "temperatura": 28.4,
+    "humedad": 40,
+    "viento": 20.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-01",
+    "zona": "Getafe",
+    "temperatura": 25.2,
+    "humedad": 38,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-02",
+    "zona": "Getafe",
+    "temperatura": 27.3,
+    "humedad": 38,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-03",
+    "zona": "Getafe",
+    "temperatura": 31.5,
+    "humedad": 34,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-04",
+    "zona": "Getafe",
+    "temperatura": 30.4,
+    "humedad": 40,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-05",
+    "zona": "Getafe",
+    "temperatura": 33.0,
+    "humedad": 41,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-06",
+    "zona": "Getafe",
+    "temperatura": 33.2,
+    "humedad": 45,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-07",
+    "zona": "Getafe",
+    "temperatura": 27.0,
+    "humedad": 55,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-08",
+    "zona": "Getafe",
+    "temperatura": 29.0,
+    "humedad": 48,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-09",
+    "zona": "Getafe",
+    "temperatura": 28.0,
+    "humedad": 42,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-10",
+    "zona": "Getafe",
+    "temperatura": 27.6,
+    "humedad": 50,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-11",
+    "zona": "Getafe",
+    "temperatura": 30.8,
+    "humedad": 38,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-12",
+    "zona": "Getafe",
+    "temperatura": 31.9,
+    "humedad": 40,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-13",
+    "zona": "Getafe",
+    "temperatura": 30.5,
+    "humedad": 40,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-14",
+    "zona": "Getafe",
+    "temperatura": 31.4,
+    "humedad": 34,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-15",
+    "zona": "Getafe",
+    "temperatura": 33.4,
+    "humedad": 37,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-16",
+    "zona": "Getafe",
+    "temperatura": 34.8,
+    "humedad": 35,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-17",
+    "zona": "Getafe",
+    "temperatura": 35.2,
+    "humedad": 32,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-18",
+    "zona": "Getafe",
+    "temperatura": 36.5,
+    "humedad": 34,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-19",
+    "zona": "Getafe",
+    "temperatura": 34.9,
+    "humedad": 39,
+    "viento": 16.9,
+    "lluvia": 0.4
+  },
+  {
+    "fecha": "2025-09-20",
+    "zona": "Getafe",
+    "temperatura": 32.1,
+    "humedad": 52,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-21",
+    "zona": "Getafe",
+    "temperatura": 25.4,
+    "humedad": 44,
+    "viento": 20.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-22",
+    "zona": "Getafe",
+    "temperatura": 22.1,
+    "humedad": 40,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-23",
+    "zona": "Getafe",
+    "temperatura": 22.6,
+    "humedad": 45,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-24",
+    "zona": "Getafe",
+    "temperatura": 22.5,
+    "humedad": 42,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-25",
+    "zona": "Getafe",
+    "temperatura": 24.5,
+    "humedad": 42,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-26",
+    "zona": "Getafe",
+    "temperatura": 26.7,
+    "humedad": 35,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-27",
+    "zona": "Getafe",
+    "temperatura": 26.5,
+    "humedad": 37,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-28",
+    "zona": "Getafe",
+    "temperatura": 22.2,
+    "humedad": 59,
+    "viento": 6.8,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-09-29",
+    "zona": "Getafe",
+    "temperatura": 24.4,
+    "humedad": 58,
+    "viento": 27.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-30",
+    "zona": "Getafe",
+    "temperatura": 23.6,
+    "humedad": 60,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-01",
+    "zona": "Getafe",
+    "temperatura": 27.7,
+    "humedad": 58,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-02",
+    "zona": "Getafe",
+    "temperatura": 28.8,
+    "humedad": 37,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-04",
+    "zona": "Getafe",
+    "temperatura": 30.4,
+    "humedad": 41,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-05",
+    "zona": "Getafe",
+    "temperatura": 26.1,
+    "humedad": 49,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-06",
+    "zona": "Getafe",
+    "temperatura": 27.3,
+    "humedad": 51,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-07",
+    "zona": "Getafe",
+    "temperatura": 29.0,
+    "humedad": 52,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-08",
+    "zona": "Getafe",
+    "temperatura": 28.6,
+    "humedad": 48,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-09",
+    "zona": "Getafe",
+    "temperatura": 26.2,
+    "humedad": 47,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Getafe",
+    "temperatura": 22.7,
+    "humedad": 59,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-11",
+    "zona": "Getafe",
+    "temperatura": 24.4,
+    "humedad": 55,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-12",
+    "zona": "Getafe",
+    "temperatura": 23.5,
+    "humedad": 63,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-13",
+    "zona": "Getafe",
+    "temperatura": 24.6,
+    "humedad": 63,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-14",
+    "zona": "Getafe",
+    "temperatura": 26.0,
+    "humedad": 63,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-15",
+    "zona": "Getafe",
+    "temperatura": 26.5,
+    "humedad": 59,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-16",
+    "zona": "Getafe",
+    "temperatura": 25.9,
+    "humedad": 57,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-17",
+    "zona": "Getafe",
+    "temperatura": 24.0,
+    "humedad": 57,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-18",
+    "zona": "Getafe",
+    "temperatura": 25.6,
+    "humedad": 58,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-19",
+    "zona": "Getafe",
+    "temperatura": 24.3,
+    "humedad": 53,
+    "viento": 11.9,
+    "lluvia": 0.6
+  },
+  {
+    "fecha": "2025-10-20",
+    "zona": "Getafe",
+    "temperatura": 22.7,
+    "humedad": 73,
+    "viento": 24.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-21",
+    "zona": "Getafe",
+    "temperatura": 22.7,
+    "humedad": 92,
+    "viento": 22.0,
+    "lluvia": 9.0
+  },
+  {
+    "fecha": "2025-10-22",
+    "zona": "Getafe",
+    "temperatura": 22.5,
+    "humedad": 80,
+    "viento": 24.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-23",
+    "zona": "Getafe",
+    "temperatura": 24.1,
+    "humedad": 55,
+    "viento": 23.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-24",
+    "zona": "Getafe",
+    "temperatura": 22.2,
+    "humedad": 79,
+    "viento": 22.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-25",
+    "zona": "Getafe",
+    "temperatura": 21.1,
+    "humedad": 77,
+    "viento": 15.1,
+    "lluvia": 4.2
+  },
+  {
+    "fecha": "2025-10-26",
+    "zona": "Getafe",
+    "temperatura": 18.6,
+    "humedad": 73,
+    "viento": 7.9,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-10-27",
+    "zona": "Getafe",
+    "temperatura": 19.6,
+    "humedad": 67,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-28",
+    "zona": "Getafe",
+    "temperatura": 21.7,
+    "humedad": 63,
+    "viento": 2.9,
+    "lluvia": 16.2
+  },
+  {
+    "fecha": "2025-10-29",
+    "zona": "Getafe",
+    "temperatura": 15.8,
+    "humedad": 100,
+    "viento": 2.2,
+    "lluvia": 5.9
+  },
+  {
+    "fecha": "2025-10-30",
+    "zona": "Getafe",
+    "temperatura": 17.5,
+    "humedad": 92,
+    "viento": 9.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-10-31",
+    "zona": "Getafe",
+    "temperatura": 17.6,
+    "humedad": 85,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-01",
+    "zona": "Getafe",
+    "temperatura": 19.6,
+    "humedad": 81,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-02",
+    "zona": "Getafe",
+    "temperatura": 19.0,
+    "humedad": 67,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-03",
+    "zona": "Getafe",
+    "temperatura": 19.7,
+    "humedad": 67,
+    "viento": 1.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-04",
+    "zona": "Getafe",
+    "temperatura": 20.0,
+    "humedad": 77,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-05",
+    "zona": "Getafe",
+    "temperatura": 18.4,
+    "humedad": 87,
+    "viento": 14.0,
+    "lluvia": 8.1
+  },
+  {
+    "fecha": "2025-11-06",
+    "zona": "Getafe",
+    "temperatura": 14.2,
+    "humedad": 79,
+    "viento": 23.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-07",
+    "zona": "Getafe",
+    "temperatura": 13.3,
+    "humedad": 94,
+    "viento": 16.9,
+    "lluvia": 8.5
+  },
+  {
+    "fecha": "2025-11-08",
+    "zona": "Getafe",
+    "temperatura": 16.5,
+    "humedad": 64,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-09",
+    "zona": "Getafe",
+    "temperatura": 15.0,
+    "humedad": 77,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-10",
+    "zona": "Getafe",
+    "temperatura": 16.0,
+    "humedad": 84,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-11",
+    "zona": "Getafe",
+    "temperatura": 16.8,
+    "humedad": 86,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-12",
+    "zona": "Getafe",
+    "temperatura": 24.7,
+    "humedad": 67,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-13",
+    "zona": "Getafe",
+    "temperatura": 15.2,
+    "humedad": 94,
+    "viento": 9.0,
+    "lluvia": 13.7
+  },
+  {
+    "fecha": "2025-11-14",
+    "zona": "Getafe",
+    "temperatura": 16.0,
+    "humedad": 90,
+    "viento": 18.0,
+    "lluvia": 1.0
+  },
+  {
+    "fecha": "2025-11-15",
+    "zona": "Getafe",
+    "temperatura": 14.2,
+    "humedad": 94,
+    "viento": 15.1,
+    "lluvia": 3.9
+  },
+  {
+    "fecha": "2025-11-16",
+    "zona": "Getafe",
+    "temperatura": 15.2,
+    "humedad": 88,
+    "viento": 18.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-11-17",
+    "zona": "Getafe",
+    "temperatura": 13.9,
+    "humedad": 92,
+    "viento": 2.9,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Getafe",
+    "temperatura": 15.9,
+    "humedad": 73,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-19",
+    "zona": "Getafe",
+    "temperatura": 12.0,
+    "humedad": 78,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-20",
+    "zona": "Getafe",
+    "temperatura": 12.0,
+    "humedad": 68,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-21",
+    "zona": "Getafe",
+    "temperatura": 9.3,
+    "humedad": 63,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-22",
+    "zona": "Getafe",
+    "temperatura": 10.9,
+    "humedad": 69,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-23",
+    "zona": "Getafe",
+    "temperatura": 13.6,
+    "humedad": 76,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-24",
+    "zona": "Getafe",
+    "temperatura": 12.6,
+    "humedad": 96,
+    "viento": 29.2,
+    "lluvia": 1.7
+  },
+  {
+    "fecha": "2025-11-25",
+    "zona": "Getafe",
+    "temperatura": 12.8,
+    "humedad": 68,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-26",
+    "zona": "Getafe",
+    "temperatura": 12.6,
+    "humedad": 68,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-27",
+    "zona": "Getafe",
+    "temperatura": 13.9,
+    "humedad": 74,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-28",
+    "zona": "Getafe",
+    "temperatura": 13.8,
+    "humedad": 76,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-29",
+    "zona": "Getafe",
+    "temperatura": 11.9,
+    "humedad": 89,
+    "viento": 4.0,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-11-30",
+    "zona": "Getafe",
+    "temperatura": 12.2,
+    "humedad": 81,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-01",
+    "zona": "Getafe",
+    "temperatura": 11.6,
+    "humedad": 84,
+    "viento": 6.1,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-02",
+    "zona": "Getafe",
+    "temperatura": 11.1,
+    "humedad": 89,
+    "viento": 11.2,
+    "lluvia": 1.0
+  },
+  {
+    "fecha": "2025-12-03",
+    "zona": "Getafe",
+    "temperatura": 11.0,
+    "humedad": 73,
+    "viento": 15.1,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-04",
+    "zona": "Getafe",
+    "temperatura": 11.8,
+    "humedad": 89,
+    "viento": 16.9,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-05",
+    "zona": "Getafe",
+    "temperatura": 11.2,
+    "humedad": 97,
+    "viento": 20.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-06",
+    "zona": "Getafe",
+    "temperatura": 14.8,
+    "humedad": 96,
+    "viento": 24.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-07",
+    "zona": "Getafe",
+    "temperatura": 13.6,
+    "humedad": 86,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-08",
+    "zona": "Getafe",
+    "temperatura": 13.2,
+    "humedad": 90,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-09",
+    "zona": "Getafe",
+    "temperatura": 14.2,
+    "humedad": 86,
+    "viento": 6.8,
+    "lluvia": 7.3
+  },
+  {
+    "fecha": "2025-12-10",
+    "zona": "Getafe",
+    "temperatura": 10.8,
+    "humedad": 99,
+    "viento": 2.9,
+    "lluvia": 3.6
+  },
+  {
+    "fecha": "2025-12-11",
+    "zona": "Getafe",
+    "temperatura": 12.6,
+    "humedad": 93,
+    "viento": 6.1,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-12",
+    "zona": "Getafe",
+    "temperatura": 12.4,
+    "humedad": 92,
+    "viento": 11.2,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-13",
+    "zona": "Getafe",
+    "temperatura": 15.4,
+    "humedad": 76,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-14",
+    "zona": "Getafe",
+    "temperatura": 12.0,
+    "humedad": 83,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-15",
+    "zona": "Getafe",
+    "temperatura": 12.1,
+    "humedad": 88,
+    "viento": 6.1,
+    "lluvia": 9.7
+  },
+  {
+    "fecha": "2025-12-16",
+    "zona": "Getafe",
+    "temperatura": 10.6,
+    "humedad": 93,
+    "viento": 11.9,
+    "lluvia": 0.5
+  },
+  {
+    "fecha": "2025-12-17",
+    "zona": "Getafe",
+    "temperatura": 14.8,
+    "humedad": 78,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-18",
+    "zona": "Getafe",
+    "temperatura": 11.9,
+    "humedad": 94,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-19",
+    "zona": "Getafe",
+    "temperatura": 10.7,
+    "humedad": 93,
+    "viento": 5.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-20",
+    "zona": "Getafe",
+    "temperatura": 10.1,
+    "humedad": 97,
+    "viento": 10.1,
+    "lluvia": 3.2
+  },
+  {
+    "fecha": "2025-12-21",
+    "zona": "Getafe",
+    "temperatura": 8.1,
+    "humedad": 89,
+    "viento": 20.2,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-22",
+    "zona": "Getafe",
+    "temperatura": 6.4,
+    "humedad": 92,
+    "viento": 20.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-23",
+    "zona": "Getafe",
+    "temperatura": 7.5,
+    "humedad": 92,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-24",
+    "zona": "Getafe",
+    "temperatura": 11.3,
+    "humedad": 81,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-25",
+    "zona": "Getafe",
+    "temperatura": 5.7,
+    "humedad": 77,
+    "viento": 18.0,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-26",
+    "zona": "Getafe",
+    "temperatura": 10.5,
+    "humedad": 84,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-27",
+    "zona": "Getafe",
+    "temperatura": 11.4,
+    "humedad": 89,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Getafe",
+    "temperatura": 11.6,
+    "humedad": 82,
+    "viento": 9.0,
+    "lluvia": 1.1
+  },
+  {
+    "fecha": "2025-12-29",
+    "zona": "Getafe",
+    "temperatura": 13.1,
+    "humedad": 84,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-30",
+    "zona": "Getafe",
+    "temperatura": 11.0,
+    "humedad": 96,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-31",
+    "zona": "Getafe",
+    "temperatura": 9.4,
+    "humedad": 86,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-01",
+    "zona": "Alcalá de Henares",
+    "temperatura": 39.4,
+    "humedad": 31,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-02",
+    "zona": "Alcalá de Henares",
+    "temperatura": 39.4,
+    "humedad": 32,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-03",
+    "zona": "Alcalá de Henares",
+    "temperatura": 38.8,
+    "humedad": 46,
+    "viento": 10.1,
+    "lluvia": 22.0
+  },
+  {
+    "fecha": "2025-07-04",
+    "zona": "Alcalá de Henares",
+    "temperatura": 37.9,
+    "humedad": 47,
+    "viento": 5.0,
+    "lluvia": 2.0
+  },
+  {
+    "fecha": "2025-07-05",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.4,
+    "humedad": 50,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-06",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.4,
+    "humedad": 45,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-07",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.2,
+    "humedad": 41,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-08",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.3,
+    "humedad": 41,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-09",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.6,
+    "humedad": 38,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-10",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.1,
+    "humedad": 38,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-11",
+    "zona": "Alcalá de Henares",
+    "temperatura": 33.0,
+    "humedad": 39,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-12",
+    "zona": "Alcalá de Henares",
+    "temperatura": 29.9,
+    "humedad": 46,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-13",
+    "zona": "Alcalá de Henares",
+    "temperatura": 33.2,
+    "humedad": 39,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-14",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.7,
+    "humedad": 32,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Alcalá de Henares",
+    "temperatura": 38.0,
+    "humedad": 33,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-16",
+    "zona": "Alcalá de Henares",
+    "temperatura": 39.5,
+    "humedad": 35,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-17",
+    "zona": "Alcalá de Henares",
+    "temperatura": 39.7,
+    "humedad": 29,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-18",
+    "zona": "Alcalá de Henares",
+    "temperatura": 35.4,
+    "humedad": 29,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-19",
+    "zona": "Alcalá de Henares",
+    "temperatura": 32.8,
+    "humedad": 35,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-20",
+    "zona": "Alcalá de Henares",
+    "temperatura": 31.1,
+    "humedad": 40,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-21",
+    "zona": "Alcalá de Henares",
+    "temperatura": 32.3,
+    "humedad": 32,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-22",
+    "zona": "Alcalá de Henares",
+    "temperatura": 35.1,
+    "humedad": 30,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-23",
+    "zona": "Alcalá de Henares",
+    "temperatura": 32.2,
+    "humedad": 36,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-24",
+    "zona": "Alcalá de Henares",
+    "temperatura": 29.3,
+    "humedad": 37,
+    "viento": 25.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-25",
+    "zona": "Alcalá de Henares",
+    "temperatura": 31.4,
+    "humedad": 37,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-26",
+    "zona": "Alcalá de Henares",
+    "temperatura": 34.1,
+    "humedad": 35,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-27",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.7,
+    "humedad": 33,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-28",
+    "zona": "Alcalá de Henares",
+    "temperatura": 33.5,
+    "humedad": 37,
+    "viento": 16.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-29",
+    "zona": "Alcalá de Henares",
+    "temperatura": 32.4,
+    "humedad": 37,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-30",
+    "zona": "Alcalá de Henares",
+    "temperatura": 34.3,
+    "humedad": 32,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-31",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.3,
+    "humedad": 42,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-01",
+    "zona": "Alcalá de Henares",
+    "temperatura": 33.1,
+    "humedad": 43,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-02",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.5,
+    "humedad": 40,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-03",
+    "zona": "Alcalá de Henares",
+    "temperatura": 38.3,
+    "humedad": 33,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-04",
+    "zona": "Alcalá de Henares",
+    "temperatura": 39.5,
+    "humedad": 31,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-05",
+    "zona": "Alcalá de Henares",
+    "temperatura": 40.7,
+    "humedad": 30,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-06",
+    "zona": "Alcalá de Henares",
+    "temperatura": 38.9,
+    "humedad": 31,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-07",
+    "zona": "Alcalá de Henares",
+    "temperatura": 40.6,
+    "humedad": 27,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-08",
+    "zona": "Alcalá de Henares",
+    "temperatura": 40.8,
+    "humedad": 27,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-09",
+    "zona": "Alcalá de Henares",
+    "temperatura": 41.0,
+    "humedad": 31,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-10",
+    "zona": "Alcalá de Henares",
+    "temperatura": 40.6,
+    "humedad": 32,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-11",
+    "zona": "Alcalá de Henares",
+    "temperatura": 40.8,
+    "humedad": 33,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-12",
+    "zona": "Alcalá de Henares",
+    "temperatura": 40.9,
+    "humedad": 37,
+    "viento": 9.0,
+    "lluvia": 5.2
+  },
+  {
+    "fecha": "2025-08-13",
+    "zona": "Alcalá de Henares",
+    "temperatura": 37.2,
+    "humedad": 44,
+    "viento": 6.1,
+    "lluvia": 3.6
+  },
+  {
+    "fecha": "2025-08-14",
+    "zona": "Alcalá de Henares",
+    "temperatura": 39.2,
+    "humedad": 40,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-15",
+    "zona": "Alcalá de Henares",
+    "temperatura": 40.5,
+    "humedad": 31,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-16",
+    "zona": "Alcalá de Henares",
+    "temperatura": 41.7,
+    "humedad": 28,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-17",
+    "zona": "Alcalá de Henares",
+    "temperatura": 41.6,
+    "humedad": 31,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-18",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.3,
+    "humedad": 30,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-19",
+    "zona": "Alcalá de Henares",
+    "temperatura": 33.8,
+    "humedad": 37,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-20",
+    "zona": "Alcalá de Henares",
+    "temperatura": 29.8,
+    "humedad": 42,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-21",
+    "zona": "Alcalá de Henares",
+    "temperatura": 30.8,
+    "humedad": 44,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Alcalá de Henares",
+    "temperatura": 32.2,
+    "humedad": 42,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-23",
+    "zona": "Alcalá de Henares",
+    "temperatura": 34.8,
+    "humedad": 40,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-24",
+    "zona": "Alcalá de Henares",
+    "temperatura": 34.9,
+    "humedad": 35,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-25",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.1,
+    "humedad": 34,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-26",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.1,
+    "humedad": 41,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-27",
+    "zona": "Alcalá de Henares",
+    "temperatura": 34.2,
+    "humedad": 37,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-28",
+    "zona": "Alcalá de Henares",
+    "temperatura": 29.3,
+    "humedad": 35,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-29",
+    "zona": "Alcalá de Henares",
+    "temperatura": 30.3,
+    "humedad": 42,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-30",
+    "zona": "Alcalá de Henares",
+    "temperatura": 33.0,
+    "humedad": 44,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-31",
+    "zona": "Alcalá de Henares",
+    "temperatura": 29.6,
+    "humedad": 48,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-01",
+    "zona": "Alcalá de Henares",
+    "temperatura": 25.9,
+    "humedad": 37,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-02",
+    "zona": "Alcalá de Henares",
+    "temperatura": 28.3,
+    "humedad": 42,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-03",
+    "zona": "Alcalá de Henares",
+    "temperatura": 32.4,
+    "humedad": 41,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-04",
+    "zona": "Alcalá de Henares",
+    "temperatura": 31.9,
+    "humedad": 36,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-05",
+    "zona": "Alcalá de Henares",
+    "temperatura": 33.5,
+    "humedad": 43,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-06",
+    "zona": "Alcalá de Henares",
+    "temperatura": 33.9,
+    "humedad": 48,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-07",
+    "zona": "Alcalá de Henares",
+    "temperatura": 28.3,
+    "humedad": 47,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-08",
+    "zona": "Alcalá de Henares",
+    "temperatura": 30.3,
+    "humedad": 45,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-09",
+    "zona": "Alcalá de Henares",
+    "temperatura": 29.2,
+    "humedad": 46,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-10",
+    "zona": "Alcalá de Henares",
+    "temperatura": 27.5,
+    "humedad": 51,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-11",
+    "zona": "Alcalá de Henares",
+    "temperatura": 31.3,
+    "humedad": 48,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-12",
+    "zona": "Alcalá de Henares",
+    "temperatura": 31.8,
+    "humedad": 44,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-13",
+    "zona": "Alcalá de Henares",
+    "temperatura": 31.7,
+    "humedad": 44,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-14",
+    "zona": "Alcalá de Henares",
+    "temperatura": 32.9,
+    "humedad": 36,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-15",
+    "zona": "Alcalá de Henares",
+    "temperatura": 34.4,
+    "humedad": 42,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-16",
+    "zona": "Alcalá de Henares",
+    "temperatura": 35.6,
+    "humedad": 41,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-17",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.2,
+    "humedad": 36,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-18",
+    "zona": "Alcalá de Henares",
+    "temperatura": 37.9,
+    "humedad": 34,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-19",
+    "zona": "Alcalá de Henares",
+    "temperatura": 36.0,
+    "humedad": 35,
+    "viento": 7.9,
+    "lluvia": 0.4
+  },
+  {
+    "fecha": "2025-09-20",
+    "zona": "Alcalá de Henares",
+    "temperatura": 33.3,
+    "humedad": 54,
+    "viento": 6.8,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-09-21",
+    "zona": "Alcalá de Henares",
+    "temperatura": 27.1,
+    "humedad": 44,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-22",
+    "zona": "Alcalá de Henares",
+    "temperatura": 22.8,
+    "humedad": 47,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-23",
+    "zona": "Alcalá de Henares",
+    "temperatura": 23.4,
+    "humedad": 45,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-24",
+    "zona": "Alcalá de Henares",
+    "temperatura": 22.5,
+    "humedad": 39,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-25",
+    "zona": "Alcalá de Henares",
+    "temperatura": 24.8,
+    "humedad": 42,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-26",
+    "zona": "Alcalá de Henares",
+    "temperatura": 27.8,
+    "humedad": 36,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-27",
+    "zona": "Alcalá de Henares",
+    "temperatura": 26.8,
+    "humedad": 41,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-28",
+    "zona": "Alcalá de Henares",
+    "temperatura": 23.1,
+    "humedad": 47,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-29",
+    "zona": "Alcalá de Henares",
+    "temperatura": 24.3,
+    "humedad": 56,
+    "viento": 19.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-30",
+    "zona": "Alcalá de Henares",
+    "temperatura": 24.5,
+    "humedad": 56,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-01",
+    "zona": "Alcalá de Henares",
+    "temperatura": 28.4,
+    "humedad": 56,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-02",
+    "zona": "Alcalá de Henares",
+    "temperatura": 30.0,
+    "humedad": 35,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-03",
+    "zona": "Alcalá de Henares",
+    "temperatura": 29.4,
+    "humedad": 33,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-04",
+    "zona": "Alcalá de Henares",
+    "temperatura": 31.2,
+    "humedad": 43,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-05",
+    "zona": "Alcalá de Henares",
+    "temperatura": 25.9,
+    "humedad": 46,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-06",
+    "zona": "Alcalá de Henares",
+    "temperatura": 27.9,
+    "humedad": 53,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-07",
+    "zona": "Alcalá de Henares",
+    "temperatura": 29.9,
+    "humedad": 50,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-08",
+    "zona": "Alcalá de Henares",
+    "temperatura": 29.6,
+    "humedad": 46,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-09",
+    "zona": "Alcalá de Henares",
+    "temperatura": 26.0,
+    "humedad": 47,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Alcalá de Henares",
+    "temperatura": 25.1,
+    "humedad": 54,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-11",
+    "zona": "Alcalá de Henares",
+    "temperatura": 24.0,
+    "humedad": 58,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-12",
+    "zona": "Alcalá de Henares",
+    "temperatura": 25.3,
+    "humedad": 60,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-13",
+    "zona": "Alcalá de Henares",
+    "temperatura": 25.1,
+    "humedad": 63,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-14",
+    "zona": "Alcalá de Henares",
+    "temperatura": 26.5,
+    "humedad": 62,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-15",
+    "zona": "Alcalá de Henares",
+    "temperatura": 27.0,
+    "humedad": 56,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-16",
+    "zona": "Alcalá de Henares",
+    "temperatura": 26.7,
+    "humedad": 56,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-17",
+    "zona": "Alcalá de Henares",
+    "temperatura": 22.7,
+    "humedad": 68,
+    "viento": 7.9,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-10-18",
+    "zona": "Alcalá de Henares",
+    "temperatura": 26.6,
+    "humedad": 59,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-19",
+    "zona": "Alcalá de Henares",
+    "temperatura": 23.6,
+    "humedad": 56,
+    "viento": 6.8,
+    "lluvia": 1.2
+  },
+  {
+    "fecha": "2025-10-20",
+    "zona": "Alcalá de Henares",
+    "temperatura": 22.5,
+    "humedad": 64,
+    "viento": 14.0,
+    "lluvia": 2.0
+  },
+  {
+    "fecha": "2025-10-21",
+    "zona": "Alcalá de Henares",
+    "temperatura": 22.5,
+    "humedad": 84,
+    "viento": 10.1,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-10-22",
+    "zona": "Alcalá de Henares",
+    "temperatura": 22.4,
+    "humedad": 72,
+    "viento": 16.9,
+    "lluvia": 1.4
+  },
+  {
+    "fecha": "2025-10-23",
+    "zona": "Alcalá de Henares",
+    "temperatura": 23.8,
+    "humedad": 50,
+    "viento": 16.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-24",
+    "zona": "Alcalá de Henares",
+    "temperatura": 21.6,
+    "humedad": 72,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-25",
+    "zona": "Alcalá de Henares",
+    "temperatura": 21.4,
+    "humedad": 77,
+    "viento": 9.0,
+    "lluvia": 3.2
+  },
+  {
+    "fecha": "2025-10-26",
+    "zona": "Alcalá de Henares",
+    "temperatura": 18.0,
+    "humedad": 67,
+    "viento": 10.1,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-10-27",
+    "zona": "Alcalá de Henares",
+    "temperatura": 20.0,
+    "humedad": 62,
+    "viento": 1.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-28",
+    "zona": "Alcalá de Henares",
+    "temperatura": 22.2,
+    "humedad": 60,
+    "viento": 2.2,
+    "lluvia": 12.8
+  },
+  {
+    "fecha": "2025-10-29",
+    "zona": "Alcalá de Henares",
+    "temperatura": 15.0,
+    "humedad": 93,
+    "viento": 2.2,
+    "lluvia": 2.4
+  },
+  {
+    "fecha": "2025-10-30",
+    "zona": "Alcalá de Henares",
+    "temperatura": 17.1,
+    "humedad": 86,
+    "viento": 5.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-10-31",
+    "zona": "Alcalá de Henares",
+    "temperatura": 16.8,
+    "humedad": 80,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-01",
+    "zona": "Alcalá de Henares",
+    "temperatura": 19.0,
+    "humedad": 74,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-02",
+    "zona": "Alcalá de Henares",
+    "temperatura": 18.8,
+    "humedad": 61,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-03",
+    "zona": "Alcalá de Henares",
+    "temperatura": 20.5,
+    "humedad": 65,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-04",
+    "zona": "Alcalá de Henares",
+    "temperatura": 21.1,
+    "humedad": 71,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-05",
+    "zona": "Alcalá de Henares",
+    "temperatura": 18.1,
+    "humedad": 75,
+    "viento": 15.8,
+    "lluvia": 6.6
+  },
+  {
+    "fecha": "2025-11-06",
+    "zona": "Alcalá de Henares",
+    "temperatura": 14.9,
+    "humedad": 74,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-07",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.9,
+    "humedad": 89,
+    "viento": 11.2,
+    "lluvia": 8.0
+  },
+  {
+    "fecha": "2025-11-08",
+    "zona": "Alcalá de Henares",
+    "temperatura": 15.5,
+    "humedad": 68,
+    "viento": 5.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-11-09",
+    "zona": "Alcalá de Henares",
+    "temperatura": 15.4,
+    "humedad": 70,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-10",
+    "zona": "Alcalá de Henares",
+    "temperatura": 16.4,
+    "humedad": 76,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-11",
+    "zona": "Alcalá de Henares",
+    "temperatura": 17.4,
+    "humedad": 79,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-12",
+    "zona": "Alcalá de Henares",
+    "temperatura": 24.9,
+    "humedad": 54,
+    "viento": 10.1,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-11-13",
+    "zona": "Alcalá de Henares",
+    "temperatura": 16.9,
+    "humedad": 74,
+    "viento": 6.8,
+    "lluvia": 12.8
+  },
+  {
+    "fecha": "2025-11-14",
+    "zona": "Alcalá de Henares",
+    "temperatura": 17.4,
+    "humedad": 79,
+    "viento": 15.8,
+    "lluvia": 4.4
+  },
+  {
+    "fecha": "2025-11-15",
+    "zona": "Alcalá de Henares",
+    "temperatura": 14.3,
+    "humedad": 85,
+    "viento": 22.0,
+    "lluvia": 2.6
+  },
+  {
+    "fecha": "2025-11-16",
+    "zona": "Alcalá de Henares",
+    "temperatura": 15.3,
+    "humedad": 76,
+    "viento": 14.0,
+    "lluvia": 0.4
+  },
+  {
+    "fecha": "2025-11-17",
+    "zona": "Alcalá de Henares",
+    "temperatura": 15.7,
+    "humedad": 79,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Alcalá de Henares",
+    "temperatura": 16.3,
+    "humedad": 73,
+    "viento": 1.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-19",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.1,
+    "humedad": 68,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-20",
+    "zona": "Alcalá de Henares",
+    "temperatura": 10.9,
+    "humedad": 64,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-21",
+    "zona": "Alcalá de Henares",
+    "temperatura": 9.1,
+    "humedad": 56,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-22",
+    "zona": "Alcalá de Henares",
+    "temperatura": 9.7,
+    "humedad": 66,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-23",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.9,
+    "humedad": 72,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-24",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.3,
+    "humedad": 86,
+    "viento": 27.0,
+    "lluvia": 0.8
+  },
+  {
+    "fecha": "2025-11-25",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.8,
+    "humedad": 59,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-26",
+    "zona": "Alcalá de Henares",
+    "temperatura": 11.6,
+    "humedad": 66,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-27",
+    "zona": "Alcalá de Henares",
+    "temperatura": 14.6,
+    "humedad": 69,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-28",
+    "zona": "Alcalá de Henares",
+    "temperatura": 14.6,
+    "humedad": 72,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-29",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.4,
+    "humedad": 78,
+    "viento": 5.0,
+    "lluvia": 3.2
+  },
+  {
+    "fecha": "2025-11-30",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.1,
+    "humedad": 74,
+    "viento": 13.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-01",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.2,
+    "humedad": 73,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-02",
+    "zona": "Alcalá de Henares",
+    "temperatura": 10.9,
+    "humedad": 84,
+    "viento": 2.9,
+    "lluvia": 2.4
+  },
+  {
+    "fecha": "2025-12-03",
+    "zona": "Alcalá de Henares",
+    "temperatura": 11.8,
+    "humedad": 71,
+    "viento": 5.0,
+    "lluvia": 0.6
+  },
+  {
+    "fecha": "2025-12-04",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.1,
+    "humedad": 73,
+    "viento": 19.1,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-05",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.9,
+    "humedad": 79,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-06",
+    "zona": "Alcalá de Henares",
+    "temperatura": 15.0,
+    "humedad": 83,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-07",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.7,
+    "humedad": 76,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-08",
+    "zona": "Alcalá de Henares",
+    "temperatura": 14.6,
+    "humedad": 77,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-09",
+    "zona": "Alcalá de Henares",
+    "temperatura": 15.3,
+    "humedad": 78,
+    "viento": 4.0,
+    "lluvia": 6.2
+  },
+  {
+    "fecha": "2025-12-10",
+    "zona": "Alcalá de Henares",
+    "temperatura": 11.5,
+    "humedad": 90,
+    "viento": 2.2,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-12-11",
+    "zona": "Alcalá de Henares",
+    "temperatura": 15.0,
+    "humedad": 80,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-12",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.5,
+    "humedad": 83,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-13",
+    "zona": "Alcalá de Henares",
+    "temperatura": 16.2,
+    "humedad": 72,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-14",
+    "zona": "Alcalá de Henares",
+    "temperatura": 11.8,
+    "humedad": 78,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-15",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.3,
+    "humedad": 81,
+    "viento": 5.0,
+    "lluvia": 4.2
+  },
+  {
+    "fecha": "2025-12-16",
+    "zona": "Alcalá de Henares",
+    "temperatura": 10.1,
+    "humedad": 91,
+    "viento": 5.0,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-12-17",
+    "zona": "Alcalá de Henares",
+    "temperatura": 14.9,
+    "humedad": 78,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-18",
+    "zona": "Alcalá de Henares",
+    "temperatura": 13.9,
+    "humedad": 80,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-19",
+    "zona": "Alcalá de Henares",
+    "temperatura": 11.5,
+    "humedad": 83,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-20",
+    "zona": "Alcalá de Henares",
+    "temperatura": 10.9,
+    "humedad": 88,
+    "viento": 7.9,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-12-21",
+    "zona": "Alcalá de Henares",
+    "temperatura": 8.3,
+    "humedad": 84,
+    "viento": 14.0,
+    "lluvia": 1.2
+  },
+  {
+    "fecha": "2025-12-22",
+    "zona": "Alcalá de Henares",
+    "temperatura": 7.2,
+    "humedad": 88,
+    "viento": 2.9,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-23",
+    "zona": "Alcalá de Henares",
+    "temperatura": 7.3,
+    "humedad": 88,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-24",
+    "zona": "Alcalá de Henares",
+    "temperatura": 11.4,
+    "humedad": 76,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-25",
+    "zona": "Alcalá de Henares",
+    "temperatura": 5.0,
+    "humedad": 75,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-26",
+    "zona": "Alcalá de Henares",
+    "temperatura": 10.4,
+    "humedad": 75,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-27",
+    "zona": "Alcalá de Henares",
+    "temperatura": 11.7,
+    "humedad": 76,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Alcalá de Henares",
+    "temperatura": 14.0,
+    "humedad": 66,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-29",
+    "zona": "Alcalá de Henares",
+    "temperatura": 13.6,
+    "humedad": 71,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-30",
+    "zona": "Alcalá de Henares",
+    "temperatura": 12.3,
+    "humedad": 78,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-31",
+    "zona": "Alcalá de Henares",
+    "temperatura": 11.4,
+    "humedad": 74,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-01",
+    "zona": "Aranjuez",
+    "temperatura": 38.9,
+    "humedad": 34,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-02",
+    "zona": "Aranjuez",
+    "temperatura": 38.9,
+    "humedad": 38,
+    "viento": 6.8,
+    "lluvia": 5.8
+  },
+  {
+    "fecha": "2025-07-03",
+    "zona": "Aranjuez",
+    "temperatura": 37.9,
+    "humedad": 40,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-04",
+    "zona": "Aranjuez",
+    "temperatura": 38.2,
+    "humedad": 40,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-05",
+    "zona": "Aranjuez",
+    "temperatura": 37.7,
+    "humedad": 43,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-06",
+    "zona": "Aranjuez",
+    "temperatura": 36.7,
+    "humedad": 45,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-07",
+    "zona": "Aranjuez",
+    "temperatura": 36.9,
+    "humedad": 40,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-08",
+    "zona": "Aranjuez",
+    "temperatura": 36.9,
+    "humedad": 44,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-09",
+    "zona": "Aranjuez",
+    "temperatura": 35.8,
+    "humedad": 47,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-10",
+    "zona": "Aranjuez",
+    "temperatura": 35.8,
+    "humedad": 36,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-11",
+    "zona": "Aranjuez",
+    "temperatura": 32.8,
+    "humedad": 45,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-12",
+    "zona": "Aranjuez",
+    "temperatura": 29.4,
+    "humedad": 52,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-13",
+    "zona": "Aranjuez",
+    "temperatura": 32.7,
+    "humedad": 43,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-14",
+    "zona": "Aranjuez",
+    "temperatura": 36.5,
+    "humedad": 38,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Aranjuez",
+    "temperatura": 37.1,
+    "humedad": 37,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-16",
+    "zona": "Aranjuez",
+    "temperatura": 39.0,
+    "humedad": 36,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-17",
+    "zona": "Aranjuez",
+    "temperatura": 38.0,
+    "humedad": 32,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-18",
+    "zona": "Aranjuez",
+    "temperatura": 35.2,
+    "humedad": 33,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-19",
+    "zona": "Aranjuez",
+    "temperatura": 31.4,
+    "humedad": 42,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-20",
+    "zona": "Aranjuez",
+    "temperatura": 30.8,
+    "humedad": 47,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-21",
+    "zona": "Aranjuez",
+    "temperatura": 32.1,
+    "humedad": 38,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-22",
+    "zona": "Aranjuez",
+    "temperatura": 35.2,
+    "humedad": 34,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-23",
+    "zona": "Aranjuez",
+    "temperatura": 30.9,
+    "humedad": 42,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-24",
+    "zona": "Aranjuez",
+    "temperatura": 31.3,
+    "humedad": 40,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-25",
+    "zona": "Aranjuez",
+    "temperatura": 31.6,
+    "humedad": 40,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-26",
+    "zona": "Aranjuez",
+    "temperatura": 34.0,
+    "humedad": 40,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-27",
+    "zona": "Aranjuez",
+    "temperatura": 35.7,
+    "humedad": 38,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-28",
+    "zona": "Aranjuez",
+    "temperatura": 35.8,
+    "humedad": 37,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-29",
+    "zona": "Aranjuez",
+    "temperatura": 32.8,
+    "humedad": 41,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-30",
+    "zona": "Aranjuez",
+    "temperatura": 34.5,
+    "humedad": 43,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-31",
+    "zona": "Aranjuez",
+    "temperatura": 36.0,
+    "humedad": 44,
+    "viento": 5.0,
+    "lluvia": 3.6
+  },
+  {
+    "fecha": "2025-08-01",
+    "zona": "Aranjuez",
+    "temperatura": 32.1,
+    "humedad": 60,
+    "viento": 5.0,
+    "lluvia": 10.5
+  },
+  {
+    "fecha": "2025-08-02",
+    "zona": "Aranjuez",
+    "temperatura": 36.8,
+    "humedad": 40,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-03",
+    "zona": "Aranjuez",
+    "temperatura": 38.0,
+    "humedad": 41,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-04",
+    "zona": "Aranjuez",
+    "temperatura": 38.3,
+    "humedad": 40,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-05",
+    "zona": "Aranjuez",
+    "temperatura": 39.9,
+    "humedad": 37,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-06",
+    "zona": "Aranjuez",
+    "temperatura": 38.0,
+    "humedad": 33,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-07",
+    "zona": "Aranjuez",
+    "temperatura": 40.3,
+    "humedad": 30,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-08",
+    "zona": "Aranjuez",
+    "temperatura": 40.5,
+    "humedad": 33,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-09",
+    "zona": "Aranjuez",
+    "temperatura": 40.0,
+    "humedad": 38,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-10",
+    "zona": "Aranjuez",
+    "temperatura": 39.3,
+    "humedad": 35,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-11",
+    "zona": "Aranjuez",
+    "temperatura": 40.4,
+    "humedad": 35,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-12",
+    "zona": "Aranjuez",
+    "temperatura": 41.0,
+    "humedad": 43,
+    "viento": 9.0,
+    "lluvia": 1.2
+  },
+  {
+    "fecha": "2025-08-13",
+    "zona": "Aranjuez",
+    "temperatura": 38.1,
+    "humedad": 42,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-14",
+    "zona": "Aranjuez",
+    "temperatura": 39.3,
+    "humedad": 38,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-15",
+    "zona": "Aranjuez",
+    "temperatura": 40.0,
+    "humedad": 34,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-16",
+    "zona": "Aranjuez",
+    "temperatura": 41.4,
+    "humedad": 29,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-17",
+    "zona": "Aranjuez",
+    "temperatura": 41.3,
+    "humedad": 33,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-18",
+    "zona": "Aranjuez",
+    "temperatura": 36.1,
+    "humedad": 35,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-19",
+    "zona": "Aranjuez",
+    "temperatura": 33.4,
+    "humedad": 38,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-20",
+    "zona": "Aranjuez",
+    "temperatura": 31.1,
+    "humedad": 45,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-21",
+    "zona": "Aranjuez",
+    "temperatura": 30.8,
+    "humedad": 44,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Aranjuez",
+    "temperatura": 32.7,
+    "humedad": 46,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-23",
+    "zona": "Aranjuez",
+    "temperatura": 34.8,
+    "humedad": 48,
+    "viento": 1.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-24",
+    "zona": "Aranjuez",
+    "temperatura": 35.3,
+    "humedad": 36,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-25",
+    "zona": "Aranjuez",
+    "temperatura": 34.8,
+    "humedad": 40,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-26",
+    "zona": "Aranjuez",
+    "temperatura": 35.8,
+    "humedad": 46,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-27",
+    "zona": "Aranjuez",
+    "temperatura": 34.0,
+    "humedad": 43,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-28",
+    "zona": "Aranjuez",
+    "temperatura": 29.1,
+    "humedad": 42,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-29",
+    "zona": "Aranjuez",
+    "temperatura": 29.7,
+    "humedad": 46,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-30",
+    "zona": "Aranjuez",
+    "temperatura": 33.1,
+    "humedad": 49,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-31",
+    "zona": "Aranjuez",
+    "temperatura": 29.9,
+    "humedad": 48,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-24",
+    "zona": "Aranjuez",
+    "temperatura": 23.0,
+    "humedad": 33,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-25",
+    "zona": "Aranjuez",
+    "temperatura": 24.8,
+    "humedad": 32,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-26",
+    "zona": "Aranjuez",
+    "temperatura": 27.5,
+    "humedad": 28,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-27",
+    "zona": "Aranjuez",
+    "temperatura": 28.3,
+    "humedad": 28,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-28",
+    "zona": "Aranjuez",
+    "temperatura": 22.1,
+    "humedad": 43,
+    "viento": 4.0,
+    "lluvia": 0.6
+  },
+  {
+    "fecha": "2025-09-29",
+    "zona": "Aranjuez",
+    "temperatura": 25.6,
+    "humedad": 37,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-30",
+    "zona": "Aranjuez",
+    "temperatura": 23.4,
+    "humedad": 43,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-01",
+    "zona": "Aranjuez",
+    "temperatura": 28.0,
+    "humedad": 40,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-02",
+    "zona": "Aranjuez",
+    "temperatura": 29.7,
+    "humedad": 31,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-03",
+    "zona": "Aranjuez",
+    "temperatura": 29.8,
+    "humedad": 30,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-04",
+    "zona": "Aranjuez",
+    "temperatura": 30.2,
+    "humedad": 31,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-05",
+    "zona": "Aranjuez",
+    "temperatura": 27.8,
+    "humedad": 34,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-06",
+    "zona": "Aranjuez",
+    "temperatura": 29.0,
+    "humedad": 37,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-07",
+    "zona": "Aranjuez",
+    "temperatura": 29.3,
+    "humedad": 41,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-08",
+    "zona": "Aranjuez",
+    "temperatura": 29.5,
+    "humedad": 37,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-09",
+    "zona": "Aranjuez",
+    "temperatura": 27.1,
+    "humedad": 40,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Aranjuez",
+    "temperatura": 22.2,
+    "humedad": 44,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-11",
+    "zona": "Aranjuez",
+    "temperatura": 24.4,
+    "humedad": 45,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-12",
+    "zona": "Aranjuez",
+    "temperatura": 25.3,
+    "humedad": 44,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-13",
+    "zona": "Aranjuez",
+    "temperatura": 25.2,
+    "humedad": 46,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-14",
+    "zona": "Aranjuez",
+    "temperatura": 26.4,
+    "humedad": 44,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-15",
+    "zona": "Aranjuez",
+    "temperatura": 27.0,
+    "humedad": 40,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-16",
+    "zona": "Aranjuez",
+    "temperatura": 26.9,
+    "humedad": 42,
+    "viento": 4.0,
+    "lluvia": 1.0
+  },
+  {
+    "fecha": "2025-10-17",
+    "zona": "Aranjuez",
+    "temperatura": 25.4,
+    "humedad": 43,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-18",
+    "zona": "Aranjuez",
+    "temperatura": 26.6,
+    "humedad": 40,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-19",
+    "zona": "Aranjuez",
+    "temperatura": 24.5,
+    "humedad": 39,
+    "viento": 2.2,
+    "lluvia": 0.6
+  },
+  {
+    "fecha": "2025-10-20",
+    "zona": "Aranjuez",
+    "temperatura": 23.3,
+    "humedad": 48,
+    "viento": 9.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-10-21",
+    "zona": "Aranjuez",
+    "temperatura": 24.4,
+    "humedad": 55,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-22",
+    "zona": "Aranjuez",
+    "temperatura": 23.6,
+    "humedad": 45,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-23",
+    "zona": "Aranjuez",
+    "temperatura": 25.5,
+    "humedad": 39,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-24",
+    "zona": "Aranjuez",
+    "temperatura": 23.4,
+    "humedad": 51,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-25",
+    "zona": "Aranjuez",
+    "temperatura": 24.3,
+    "humedad": 51,
+    "viento": 5.0,
+    "lluvia": 2.5
+  },
+  {
+    "fecha": "2025-10-26",
+    "zona": "Aranjuez",
+    "temperatura": 19.1,
+    "humedad": 45,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-29",
+    "zona": "Aranjuez",
+    "temperatura": 15.9,
+    "humedad": 67,
+    "viento": 0.0,
+    "lluvia": 9.3
+  },
+  {
+    "fecha": "2025-10-30",
+    "zona": "Aranjuez",
+    "temperatura": 18.4,
+    "humedad": 56,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-31",
+    "zona": "Aranjuez",
+    "temperatura": 19.5,
+    "humedad": 46,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-01",
+    "zona": "Aranjuez",
+    "temperatura": 21.0,
+    "humedad": 45,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-02",
+    "zona": "Aranjuez",
+    "temperatura": 19.9,
+    "humedad": 42,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-03",
+    "zona": "Aranjuez",
+    "temperatura": 21.0,
+    "humedad": 46,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-04",
+    "zona": "Aranjuez",
+    "temperatura": 22.2,
+    "humedad": 48,
+    "viento": 6.1,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-11-05",
+    "zona": "Aranjuez",
+    "temperatura": 18.8,
+    "humedad": 55,
+    "viento": 11.9,
+    "lluvia": 9.3
+  },
+  {
+    "fecha": "2025-11-06",
+    "zona": "Aranjuez",
+    "temperatura": 15.1,
+    "humedad": 50,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-07",
+    "zona": "Aranjuez",
+    "temperatura": 14.1,
+    "humedad": 64,
+    "viento": 6.1,
+    "lluvia": 15.5
+  },
+  {
+    "fecha": "2025-11-08",
+    "zona": "Aranjuez",
+    "temperatura": 16.9,
+    "humedad": 41,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-09",
+    "zona": "Aranjuez",
+    "temperatura": 15.6,
+    "humedad": 51,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-10",
+    "zona": "Aranjuez",
+    "temperatura": 16.7,
+    "humedad": 52,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-11",
+    "zona": "Aranjuez",
+    "temperatura": 19.0,
+    "humedad": 51,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-12",
+    "zona": "Aranjuez",
+    "temperatura": 25.3,
+    "humedad": 37,
+    "viento": 6.1,
+    "lluvia": 0.3
+  },
+  {
+    "fecha": "2025-11-13",
+    "zona": "Aranjuez",
+    "temperatura": 15.7,
+    "humedad": 55,
+    "viento": 10.1,
+    "lluvia": 7.8
+  },
+  {
+    "fecha": "2025-11-14",
+    "zona": "Aranjuez",
+    "temperatura": 17.0,
+    "humedad": 53,
+    "viento": 5.0,
+    "lluvia": 1.0
+  },
+  {
+    "fecha": "2025-11-15",
+    "zona": "Aranjuez",
+    "temperatura": 14.6,
+    "humedad": 60,
+    "viento": 6.8,
+    "lluvia": 3.1
+  },
+  {
+    "fecha": "2025-11-16",
+    "zona": "Aranjuez",
+    "temperatura": 15.8,
+    "humedad": 54,
+    "viento": 5.0,
+    "lluvia": 0.7
+  },
+  {
+    "fecha": "2025-11-17",
+    "zona": "Aranjuez",
+    "temperatura": 13.8,
+    "humedad": 56,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Aranjuez",
+    "temperatura": 15.9,
+    "humedad": 54,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-19",
+    "zona": "Aranjuez",
+    "temperatura": 12.5,
+    "humedad": 54,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-20",
+    "zona": "Aranjuez",
+    "temperatura": 13.0,
+    "humedad": 45,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-21",
+    "zona": "Aranjuez",
+    "temperatura": 11.0,
+    "humedad": 42,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-22",
+    "zona": "Aranjuez",
+    "temperatura": 11.1,
+    "humedad": 46,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-23",
+    "zona": "Aranjuez",
+    "temperatura": 13.9,
+    "humedad": 50,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-24",
+    "zona": "Aranjuez",
+    "temperatura": 13.9,
+    "humedad": 57,
+    "viento": 13.0,
+    "lluvia": 0.3
+  },
+  {
+    "fecha": "2025-11-25",
+    "zona": "Aranjuez",
+    "temperatura": 13.8,
+    "humedad": 40,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-26",
+    "zona": "Aranjuez",
+    "temperatura": 13.4,
+    "humedad": 44,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-27",
+    "zona": "Aranjuez",
+    "temperatura": 14.0,
+    "humedad": 48,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-28",
+    "zona": "Aranjuez",
+    "temperatura": 15.1,
+    "humedad": 51,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-29",
+    "zona": "Aranjuez",
+    "temperatura": 13.1,
+    "humedad": 57,
+    "viento": 4.0,
+    "lluvia": 4.5
+  },
+  {
+    "fecha": "2025-11-30",
+    "zona": "Aranjuez",
+    "temperatura": 12.2,
+    "humedad": 52,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-01",
+    "zona": "Aranjuez",
+    "temperatura": 12.6,
+    "humedad": 56,
+    "viento": 0.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-02",
+    "zona": "Aranjuez",
+    "temperatura": 10.4,
+    "humedad": 63,
+    "viento": 6.8,
+    "lluvia": 3.0
+  },
+  {
+    "fecha": "2025-12-03",
+    "zona": "Aranjuez",
+    "temperatura": 12.1,
+    "humedad": 50,
+    "viento": 5.0,
+    "lluvia": 0.4
+  },
+  {
+    "fecha": "2025-12-04",
+    "zona": "Aranjuez",
+    "temperatura": 12.5,
+    "humedad": 55,
+    "viento": 10.1,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-05",
+    "zona": "Aranjuez",
+    "temperatura": 11.8,
+    "humedad": 61,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-06",
+    "zona": "Aranjuez",
+    "temperatura": 15.9,
+    "humedad": 54,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-07",
+    "zona": "Aranjuez",
+    "temperatura": 13.7,
+    "humedad": 50,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-08",
+    "zona": "Aranjuez",
+    "temperatura": 15.0,
+    "humedad": 55,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-09",
+    "zona": "Aranjuez",
+    "temperatura": 15.8,
+    "humedad": 54,
+    "viento": 6.1,
+    "lluvia": 4.6
+  },
+  {
+    "fecha": "2025-12-10",
+    "zona": "Aranjuez",
+    "temperatura": 11.7,
+    "humedad": 64,
+    "viento": 6.8,
+    "lluvia": 1.9
+  },
+  {
+    "fecha": "2025-12-11",
+    "zona": "Aranjuez",
+    "temperatura": 14.6,
+    "humedad": 59,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-12",
+    "zona": "Aranjuez",
+    "temperatura": 13.0,
+    "humedad": 54,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-13",
+    "zona": "Aranjuez",
+    "temperatura": 14.7,
+    "humedad": 48,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-14",
+    "zona": "Aranjuez",
+    "temperatura": 12.4,
+    "humedad": 54,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-15",
+    "zona": "Aranjuez",
+    "temperatura": 13.3,
+    "humedad": 54,
+    "viento": 1.1,
+    "lluvia": 7.6
+  },
+  {
+    "fecha": "2025-12-16",
+    "zona": "Aranjuez",
+    "temperatura": 10.7,
+    "humedad": 57,
+    "viento": 5.0,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-17",
+    "zona": "Aranjuez",
+    "temperatura": 16.2,
+    "humedad": 49,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-18",
+    "zona": "Aranjuez",
+    "temperatura": 12.9,
+    "humedad": 61,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-19",
+    "zona": "Aranjuez",
+    "temperatura": 10.9,
+    "humedad": 61,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-20",
+    "zona": "Aranjuez",
+    "temperatura": 11.4,
+    "humedad": 63,
+    "viento": 2.2,
+    "lluvia": 5.6
+  },
+  {
+    "fecha": "2025-12-21",
+    "zona": "Aranjuez",
+    "temperatura": 8.7,
+    "humedad": 53,
+    "viento": 13.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-22",
+    "zona": "Aranjuez",
+    "temperatura": 6.5,
+    "humedad": 59,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-23",
+    "zona": "Aranjuez",
+    "temperatura": 7.4,
+    "humedad": 67,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-24",
+    "zona": "Aranjuez",
+    "temperatura": 12.4,
+    "humedad": 53,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-25",
+    "zona": "Aranjuez",
+    "temperatura": 6.7,
+    "humedad": 51,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-26",
+    "zona": "Aranjuez",
+    "temperatura": 10.7,
+    "humedad": 58,
+    "viento": 1.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-27",
+    "zona": "Aranjuez",
+    "temperatura": 11.5,
+    "humedad": 54,
+    "viento": 9.0,
+    "lluvia": 0.7
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Aranjuez",
+    "temperatura": 11.7,
+    "humedad": 51,
+    "viento": 10.1,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-29",
+    "zona": "Aranjuez",
+    "temperatura": 14.2,
+    "humedad": 51,
+    "viento": 1.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-30",
+    "zona": "Aranjuez",
+    "temperatura": 10.0,
+    "humedad": 68,
+    "viento": 1.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-31",
+    "zona": "Aranjuez",
+    "temperatura": 10.1,
+    "humedad": 68,
+    "viento": 2.2,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-07-01",
+    "zona": "Colmenar Viejo",
+    "temperatura": 34.5,
+    "humedad": 26,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-02",
+    "zona": "Colmenar Viejo",
+    "temperatura": 34.0,
+    "humedad": 32,
+    "viento": 9.0,
+    "lluvia": 2.1
+  },
+  {
+    "fecha": "2025-07-03",
+    "zona": "Colmenar Viejo",
+    "temperatura": 33.7,
+    "humedad": 37,
+    "viento": 6.1,
+    "lluvia": 2.7
+  },
+  {
+    "fecha": "2025-07-04",
+    "zona": "Colmenar Viejo",
+    "temperatura": 33.8,
+    "humedad": 38,
+    "viento": 6.1,
+    "lluvia": 4.6
+  },
+  {
+    "fecha": "2025-07-05",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.9,
+    "humedad": 41,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-06",
+    "zona": "Colmenar Viejo",
+    "temperatura": 32.5,
+    "humedad": 38,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-07",
+    "zona": "Colmenar Viejo",
+    "temperatura": 33.3,
+    "humedad": 41,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-08",
+    "zona": "Colmenar Viejo",
+    "temperatura": 32.5,
+    "humedad": 40,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-09",
+    "zona": "Colmenar Viejo",
+    "temperatura": 33.2,
+    "humedad": 45,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-10",
+    "zona": "Colmenar Viejo",
+    "temperatura": 32.1,
+    "humedad": 32,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-11",
+    "zona": "Colmenar Viejo",
+    "temperatura": 28.1,
+    "humedad": 34,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-12",
+    "zona": "Colmenar Viejo",
+    "temperatura": 24.7,
+    "humedad": 56,
+    "viento": 7.9,
+    "lluvia": 4.3
+  },
+  {
+    "fecha": "2025-07-13",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.0,
+    "humedad": 41,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-14",
+    "zona": "Colmenar Viejo",
+    "temperatura": 32.9,
+    "humedad": 30,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Colmenar Viejo",
+    "temperatura": 35.0,
+    "humedad": 32,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-16",
+    "zona": "Colmenar Viejo",
+    "temperatura": 35.5,
+    "humedad": 31,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-17",
+    "zona": "Colmenar Viejo",
+    "temperatura": 35.6,
+    "humedad": 26,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-18",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.3,
+    "humedad": 26,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-19",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.5,
+    "humedad": 38,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-20",
+    "zona": "Colmenar Viejo",
+    "temperatura": 27.5,
+    "humedad": 43,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-21",
+    "zona": "Colmenar Viejo",
+    "temperatura": 28.3,
+    "humedad": 40,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-22",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.3,
+    "humedad": 31,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-23",
+    "zona": "Colmenar Viejo",
+    "temperatura": 28.5,
+    "humedad": 41,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-24",
+    "zona": "Colmenar Viejo",
+    "temperatura": 26.9,
+    "humedad": 39,
+    "viento": 16.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-25",
+    "zona": "Colmenar Viejo",
+    "temperatura": 28.2,
+    "humedad": 38,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-26",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.1,
+    "humedad": 36,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-27",
+    "zona": "Colmenar Viejo",
+    "temperatura": 33.0,
+    "humedad": 30,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-28",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.0,
+    "humedad": 39,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-29",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.0,
+    "humedad": 41,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-30",
+    "zona": "Colmenar Viejo",
+    "temperatura": 30.3,
+    "humedad": 34,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-31",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.7,
+    "humedad": 46,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-01",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.6,
+    "humedad": 45,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-02",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.9,
+    "humedad": 40,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-03",
+    "zona": "Colmenar Viejo",
+    "temperatura": 34.2,
+    "humedad": 35,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-04",
+    "zona": "Colmenar Viejo",
+    "temperatura": 35.0,
+    "humedad": 36,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-05",
+    "zona": "Colmenar Viejo",
+    "temperatura": 36.5,
+    "humedad": 25,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-06",
+    "zona": "Colmenar Viejo",
+    "temperatura": 34.1,
+    "humedad": 34,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-07",
+    "zona": "Colmenar Viejo",
+    "temperatura": 35.7,
+    "humedad": 25,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-08",
+    "zona": "Colmenar Viejo",
+    "temperatura": 36.4,
+    "humedad": 31,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-09",
+    "zona": "Colmenar Viejo",
+    "temperatura": 36.9,
+    "humedad": 29,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-10",
+    "zona": "Colmenar Viejo",
+    "temperatura": 36.3,
+    "humedad": 29,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-11",
+    "zona": "Colmenar Viejo",
+    "temperatura": 36.9,
+    "humedad": 34,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-12",
+    "zona": "Colmenar Viejo",
+    "temperatura": 36.0,
+    "humedad": 35,
+    "viento": 13.0,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-08-13",
+    "zona": "Colmenar Viejo",
+    "temperatura": 33.0,
+    "humedad": 34,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-14",
+    "zona": "Colmenar Viejo",
+    "temperatura": 34.5,
+    "humedad": 35,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-15",
+    "zona": "Colmenar Viejo",
+    "temperatura": 36.0,
+    "humedad": 32,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-16",
+    "zona": "Colmenar Viejo",
+    "temperatura": 38.0,
+    "humedad": 23,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-17",
+    "zona": "Colmenar Viejo",
+    "temperatura": 37.6,
+    "humedad": 26,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-18",
+    "zona": "Colmenar Viejo",
+    "temperatura": 32.0,
+    "humedad": 23,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-19",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.7,
+    "humedad": 30,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-20",
+    "zona": "Colmenar Viejo",
+    "temperatura": 25.0,
+    "humedad": 47,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-21",
+    "zona": "Colmenar Viejo",
+    "temperatura": 27.0,
+    "humedad": 47,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.0,
+    "humedad": 48,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-23",
+    "zona": "Colmenar Viejo",
+    "temperatura": 30.4,
+    "humedad": 43,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-24",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.8,
+    "humedad": 33,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-25",
+    "zona": "Colmenar Viejo",
+    "temperatura": 32.0,
+    "humedad": 37,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-26",
+    "zona": "Colmenar Viejo",
+    "temperatura": 32.3,
+    "humedad": 45,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-27",
+    "zona": "Colmenar Viejo",
+    "temperatura": 30.7,
+    "humedad": 41,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-28",
+    "zona": "Colmenar Viejo",
+    "temperatura": 25.5,
+    "humedad": 36,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-29",
+    "zona": "Colmenar Viejo",
+    "temperatura": 25.0,
+    "humedad": 47,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-30",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.9,
+    "humedad": 43,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-31",
+    "zona": "Colmenar Viejo",
+    "temperatura": 25.0,
+    "humedad": 43,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-01",
+    "zona": "Colmenar Viejo",
+    "temperatura": 21.2,
+    "humedad": 46,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-02",
+    "zona": "Colmenar Viejo",
+    "temperatura": 25.3,
+    "humedad": 42,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-03",
+    "zona": "Colmenar Viejo",
+    "temperatura": 28.5,
+    "humedad": 41,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-04",
+    "zona": "Colmenar Viejo",
+    "temperatura": 28.2,
+    "humedad": 37,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-05",
+    "zona": "Colmenar Viejo",
+    "temperatura": 28.5,
+    "humedad": 42,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-06",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.5,
+    "humedad": 56,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-07",
+    "zona": "Colmenar Viejo",
+    "temperatura": 24.0,
+    "humedad": 53,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-08",
+    "zona": "Colmenar Viejo",
+    "temperatura": 26.6,
+    "humedad": 48,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-09",
+    "zona": "Colmenar Viejo",
+    "temperatura": 25.5,
+    "humedad": 45,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-10",
+    "zona": "Colmenar Viejo",
+    "temperatura": 23.7,
+    "humedad": 58,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-11",
+    "zona": "Colmenar Viejo",
+    "temperatura": 27.5,
+    "humedad": 45,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-12",
+    "zona": "Colmenar Viejo",
+    "temperatura": 28.0,
+    "humedad": 48,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-13",
+    "zona": "Colmenar Viejo",
+    "temperatura": 27.8,
+    "humedad": 40,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-14",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.3,
+    "humedad": 42,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-15",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.0,
+    "humedad": 43,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-16",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.9,
+    "humedad": 40,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-17",
+    "zona": "Colmenar Viejo",
+    "temperatura": 32.7,
+    "humedad": 36,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-18",
+    "zona": "Colmenar Viejo",
+    "temperatura": 32.9,
+    "humedad": 33,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-19",
+    "zona": "Colmenar Viejo",
+    "temperatura": 31.4,
+    "humedad": 41,
+    "viento": 6.1,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-09-20",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.7,
+    "humedad": 56,
+    "viento": 10.1,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-09-21",
+    "zona": "Colmenar Viejo",
+    "temperatura": 23.0,
+    "humedad": 45,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-22",
+    "zona": "Colmenar Viejo",
+    "temperatura": 19.0,
+    "humedad": 45,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-23",
+    "zona": "Colmenar Viejo",
+    "temperatura": 20.5,
+    "humedad": 44,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-24",
+    "zona": "Colmenar Viejo",
+    "temperatura": 20.0,
+    "humedad": 45,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-25",
+    "zona": "Colmenar Viejo",
+    "temperatura": 21.0,
+    "humedad": 43,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-26",
+    "zona": "Colmenar Viejo",
+    "temperatura": 24.8,
+    "humedad": 29,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-27",
+    "zona": "Colmenar Viejo",
+    "temperatura": 23.4,
+    "humedad": 34,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-28",
+    "zona": "Colmenar Viejo",
+    "temperatura": 20.2,
+    "humedad": 66,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-29",
+    "zona": "Colmenar Viejo",
+    "temperatura": 20.9,
+    "humedad": 60,
+    "viento": 24.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-30",
+    "zona": "Colmenar Viejo",
+    "temperatura": 21.2,
+    "humedad": 60,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-01",
+    "zona": "Colmenar Viejo",
+    "temperatura": 23.4,
+    "humedad": 53,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-02",
+    "zona": "Colmenar Viejo",
+    "temperatura": 26.7,
+    "humedad": 31,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-03",
+    "zona": "Colmenar Viejo",
+    "temperatura": 25.5,
+    "humedad": 33,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-04",
+    "zona": "Colmenar Viejo",
+    "temperatura": 27.8,
+    "humedad": 40,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-05",
+    "zona": "Colmenar Viejo",
+    "temperatura": 23.0,
+    "humedad": 51,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-06",
+    "zona": "Colmenar Viejo",
+    "temperatura": 23.8,
+    "humedad": 48,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-07",
+    "zona": "Colmenar Viejo",
+    "temperatura": 26.3,
+    "humedad": 48,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-08",
+    "zona": "Colmenar Viejo",
+    "temperatura": 25.5,
+    "humedad": 45,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-09",
+    "zona": "Colmenar Viejo",
+    "temperatura": 21.8,
+    "humedad": 53,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Colmenar Viejo",
+    "temperatura": 20.6,
+    "humedad": 58,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-11",
+    "zona": "Colmenar Viejo",
+    "temperatura": 22.4,
+    "humedad": 58,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-12",
+    "zona": "Colmenar Viejo",
+    "temperatura": 21.0,
+    "humedad": 67,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-13",
+    "zona": "Colmenar Viejo",
+    "temperatura": 21.4,
+    "humedad": 74,
+    "viento": 5.0,
+    "lluvia": 1.9
+  },
+  {
+    "fecha": "2025-10-14",
+    "zona": "Colmenar Viejo",
+    "temperatura": 22.0,
+    "humedad": 65,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-15",
+    "zona": "Colmenar Viejo",
+    "temperatura": 23.0,
+    "humedad": 52,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-16",
+    "zona": "Colmenar Viejo",
+    "temperatura": 21.9,
+    "humedad": 60,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-17",
+    "zona": "Colmenar Viejo",
+    "temperatura": 19.4,
+    "humedad": 74,
+    "viento": 6.1,
+    "lluvia": 5.9
+  },
+  {
+    "fecha": "2025-10-18",
+    "zona": "Colmenar Viejo",
+    "temperatura": 22.4,
+    "humedad": 58,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-19",
+    "zona": "Colmenar Viejo",
+    "temperatura": 19.4,
+    "humedad": 60,
+    "viento": 6.1,
+    "lluvia": 0.6
+  },
+  {
+    "fecha": "2025-10-20",
+    "zona": "Colmenar Viejo",
+    "temperatura": 20.7,
+    "humedad": 60,
+    "viento": 16.9,
+    "lluvia": 1.6
+  },
+  {
+    "fecha": "2025-10-21",
+    "zona": "Colmenar Viejo",
+    "temperatura": 20.6,
+    "humedad": 84,
+    "viento": 11.2,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-10-22",
+    "zona": "Colmenar Viejo",
+    "temperatura": 20.1,
+    "humedad": 61,
+    "viento": 19.1,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-10-23",
+    "zona": "Colmenar Viejo",
+    "temperatura": 19.3,
+    "humedad": 44,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-24",
+    "zona": "Colmenar Viejo",
+    "temperatura": 19.0,
+    "humedad": 80,
+    "viento": 9.0,
+    "lluvia": 0.3
+  },
+  {
+    "fecha": "2025-10-25",
+    "zona": "Colmenar Viejo",
+    "temperatura": 19.3,
+    "humedad": 91,
+    "viento": 9.0,
+    "lluvia": 14.2
+  },
+  {
+    "fecha": "2025-10-26",
+    "zona": "Colmenar Viejo",
+    "temperatura": 17.1,
+    "humedad": 61,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-27",
+    "zona": "Colmenar Viejo",
+    "temperatura": 17.2,
+    "humedad": 57,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-28",
+    "zona": "Colmenar Viejo",
+    "temperatura": 19.5,
+    "humedad": 49,
+    "viento": 2.9,
+    "lluvia": 15.0
+  },
+  {
+    "fecha": "2025-10-29",
+    "zona": "Colmenar Viejo",
+    "temperatura": 12.9,
+    "humedad": 98,
+    "viento": 1.1,
+    "lluvia": 1.8
+  },
+  {
+    "fecha": "2025-10-30",
+    "zona": "Colmenar Viejo",
+    "temperatura": 13.1,
+    "humedad": 94,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-31",
+    "zona": "Colmenar Viejo",
+    "temperatura": 13.2,
+    "humedad": 92,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-01",
+    "zona": "Colmenar Viejo",
+    "temperatura": 13.8,
+    "humedad": 87,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-02",
+    "zona": "Colmenar Viejo",
+    "temperatura": 15.5,
+    "humedad": 61,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-03",
+    "zona": "Colmenar Viejo",
+    "temperatura": 16.8,
+    "humedad": 52,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-04",
+    "zona": "Colmenar Viejo",
+    "temperatura": 16.5,
+    "humedad": 64,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-05",
+    "zona": "Colmenar Viejo",
+    "temperatura": 14.9,
+    "humedad": 84,
+    "viento": 7.9,
+    "lluvia": 10.7
+  },
+  {
+    "fecha": "2025-11-06",
+    "zona": "Colmenar Viejo",
+    "temperatura": 12.3,
+    "humedad": 67,
+    "viento": 20.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-07",
+    "zona": "Colmenar Viejo",
+    "temperatura": 10.3,
+    "humedad": 93,
+    "viento": 9.0,
+    "lluvia": 6.4
+  },
+  {
+    "fecha": "2025-11-08",
+    "zona": "Colmenar Viejo",
+    "temperatura": 12.8,
+    "humedad": 58,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-09",
+    "zona": "Colmenar Viejo",
+    "temperatura": 12.8,
+    "humedad": 61,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-10",
+    "zona": "Colmenar Viejo",
+    "temperatura": 13.3,
+    "humedad": 75,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-11",
+    "zona": "Colmenar Viejo",
+    "temperatura": 12.7,
+    "humedad": 85,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-12",
+    "zona": "Colmenar Viejo",
+    "temperatura": 20.8,
+    "humedad": 50,
+    "viento": 11.2,
+    "lluvia": 1.5
+  },
+  {
+    "fecha": "2025-11-13",
+    "zona": "Colmenar Viejo",
+    "temperatura": 12.4,
+    "humedad": 93,
+    "viento": 7.9,
+    "lluvia": 36.8
+  },
+  {
+    "fecha": "2025-11-14",
+    "zona": "Colmenar Viejo",
+    "temperatura": 11.6,
+    "humedad": 94,
+    "viento": 15.8,
+    "lluvia": 9.5
+  },
+  {
+    "fecha": "2025-11-15",
+    "zona": "Colmenar Viejo",
+    "temperatura": 9.5,
+    "humedad": 100,
+    "viento": 9.0,
+    "lluvia": 36.0
+  },
+  {
+    "fecha": "2025-11-16",
+    "zona": "Colmenar Viejo",
+    "temperatura": 12.0,
+    "humedad": 87,
+    "viento": 9.0,
+    "lluvia": 4.4
+  },
+  {
+    "fecha": "2025-11-17",
+    "zona": "Colmenar Viejo",
+    "temperatura": 11.3,
+    "humedad": 88,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Colmenar Viejo",
+    "temperatura": 12.6,
+    "humedad": 74,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-19",
+    "zona": "Colmenar Viejo",
+    "temperatura": 9.0,
+    "humedad": 70,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-20",
+    "zona": "Colmenar Viejo",
+    "temperatura": 8.5,
+    "humedad": 53,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-21",
+    "zona": "Colmenar Viejo",
+    "temperatura": 6.6,
+    "humedad": 58,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-22",
+    "zona": "Colmenar Viejo",
+    "temperatura": 7.7,
+    "humedad": 62,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-23",
+    "zona": "Colmenar Viejo",
+    "temperatura": 8.6,
+    "humedad": 72,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-24",
+    "zona": "Colmenar Viejo",
+    "temperatura": 11.2,
+    "humedad": 98,
+    "viento": 24.1,
+    "lluvia": 2.0
+  },
+  {
+    "fecha": "2025-11-25",
+    "zona": "Colmenar Viejo",
+    "temperatura": 9.0,
+    "humedad": 64,
+    "viento": 7.9,
+    "lluvia": 0.5
+  },
+  {
+    "fecha": "2025-11-26",
+    "zona": "Colmenar Viejo",
+    "temperatura": 9.2,
+    "humedad": 47,
+    "viento": 16.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-27",
+    "zona": "Colmenar Viejo",
+    "temperatura": 11.4,
+    "humedad": 57,
+    "viento": 2.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-28",
+    "zona": "Colmenar Viejo",
+    "temperatura": 12.4,
+    "humedad": 66,
+    "viento": 1.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-29",
+    "zona": "Colmenar Viejo",
+    "temperatura": 8.4,
+    "humedad": 82,
+    "viento": 2.9,
+    "lluvia": 0.8
+  },
+  {
+    "fecha": "2025-11-30",
+    "zona": "Colmenar Viejo",
+    "temperatura": 10.0,
+    "humedad": 69,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-01",
+    "zona": "Colmenar Viejo",
+    "temperatura": 9.7,
+    "humedad": 65,
+    "viento": 5.0,
+    "lluvia": 1.4
+  },
+  {
+    "fecha": "2025-12-02",
+    "zona": "Colmenar Viejo",
+    "temperatura": 9.1,
+    "humedad": 85,
+    "viento": 4.0,
+    "lluvia": 2.1
+  },
+  {
+    "fecha": "2025-12-03",
+    "zona": "Colmenar Viejo",
+    "temperatura": 7.0,
+    "humedad": 59,
+    "viento": 10.1,
+    "lluvia": 1.8
+  },
+  {
+    "fecha": "2025-12-04",
+    "zona": "Colmenar Viejo",
+    "temperatura": 8.8,
+    "humedad": 75,
+    "viento": 16.9,
+    "lluvia": 0.3
+  },
+  {
+    "fecha": "2025-12-05",
+    "zona": "Colmenar Viejo",
+    "temperatura": 10.9,
+    "humedad": 77,
+    "viento": 10.1,
+    "lluvia": 0.6
+  },
+  {
+    "fecha": "2025-12-06",
+    "zona": "Colmenar Viejo",
+    "temperatura": 11.5,
+    "humedad": 97,
+    "viento": 11.2,
+    "lluvia": 0.4
+  },
+  {
+    "fecha": "2025-12-07",
+    "zona": "Colmenar Viejo",
+    "temperatura": 10.0,
+    "humedad": 94,
+    "viento": 2.2,
+    "lluvia": 0.3
+  },
+  {
+    "fecha": "2025-12-08",
+    "zona": "Colmenar Viejo",
+    "temperatura": 11.0,
+    "humedad": 85,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-09",
+    "zona": "Colmenar Viejo",
+    "temperatura": 9.5,
+    "humedad": 92,
+    "viento": 4.0,
+    "lluvia": 8.9
+  },
+  {
+    "fecha": "2025-12-10",
+    "zona": "Colmenar Viejo",
+    "temperatura": 8.4,
+    "humedad": 97,
+    "viento": 2.9,
+    "lluvia": 1.8
+  },
+  {
+    "fecha": "2025-12-11",
+    "zona": "Colmenar Viejo",
+    "temperatura": 10.2,
+    "humedad": 81,
+    "viento": 4.0,
+    "lluvia": 1.2
+  },
+  {
+    "fecha": "2025-12-12",
+    "zona": "Colmenar Viejo",
+    "temperatura": 8.5,
+    "humedad": 95,
+    "viento": 10.1,
+    "lluvia": 1.1
+  },
+  {
+    "fecha": "2025-12-13",
+    "zona": "Colmenar Viejo",
+    "temperatura": 13.1,
+    "humedad": 66,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-14",
+    "zona": "Colmenar Viejo",
+    "temperatura": 10.6,
+    "humedad": 77,
+    "viento": 2.9,
+    "lluvia": 0.3
+  },
+  {
+    "fecha": "2025-12-15",
+    "zona": "Colmenar Viejo",
+    "temperatura": 8.0,
+    "humedad": 89,
+    "viento": 2.2,
+    "lluvia": 11.2
+  },
+  {
+    "fecha": "2025-12-16",
+    "zona": "Colmenar Viejo",
+    "temperatura": 7.7,
+    "humedad": 95,
+    "viento": 11.2,
+    "lluvia": 8.4
+  },
+  {
+    "fecha": "2025-12-17",
+    "zona": "Colmenar Viejo",
+    "temperatura": 10.7,
+    "humedad": 78,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-18",
+    "zona": "Colmenar Viejo",
+    "temperatura": 9.4,
+    "humedad": 90,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-19",
+    "zona": "Colmenar Viejo",
+    "temperatura": 7.7,
+    "humedad": 100,
+    "viento": 2.9,
+    "lluvia": 2.6
+  },
+  {
+    "fecha": "2025-12-20",
+    "zona": "Colmenar Viejo",
+    "temperatura": 7.2,
+    "humedad": 97,
+    "viento": 6.8,
+    "lluvia": 19.5
+  },
+  {
+    "fecha": "2025-12-21",
+    "zona": "Colmenar Viejo",
+    "temperatura": 4.5,
+    "humedad": 79,
+    "viento": 15.1,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-22",
+    "zona": "Colmenar Viejo",
+    "temperatura": 3.5,
+    "humedad": 86,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-23",
+    "zona": "Colmenar Viejo",
+    "temperatura": 5.1,
+    "humedad": 93,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-24",
+    "zona": "Colmenar Viejo",
+    "temperatura": 8.0,
+    "humedad": 71,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-25",
+    "zona": "Colmenar Viejo",
+    "temperatura": 3.0,
+    "humedad": 83,
+    "viento": 2.2,
+    "lluvia": 0.3
+  },
+  {
+    "fecha": "2025-12-26",
+    "zona": "Colmenar Viejo",
+    "temperatura": 7.7,
+    "humedad": 83,
+    "viento": 2.9,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-27",
+    "zona": "Colmenar Viejo",
+    "temperatura": 7.4,
+    "humedad": 85,
+    "viento": 15.8,
+    "lluvia": 1.0
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Colmenar Viejo",
+    "temperatura": 9.1,
+    "humedad": 75,
+    "viento": 20.2,
+    "lluvia": 0.1
+  },
+  {
+    "fecha": "2025-12-29",
+    "zona": "Colmenar Viejo",
+    "temperatura": 10.9,
+    "humedad": 75,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-30",
+    "zona": "Colmenar Viejo",
+    "temperatura": 9.7,
+    "humedad": 81,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-31",
+    "zona": "Colmenar Viejo",
+    "temperatura": 7.4,
+    "humedad": 74,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-01",
+    "zona": "Navacerrada",
+    "temperatura": 28.2,
+    "humedad": 32,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-02",
+    "zona": "Navacerrada",
+    "temperatura": 29.0,
+    "humedad": 38,
+    "viento": 11.2,
+    "lluvia": 1.4
+  },
+  {
+    "fecha": "2025-07-03",
+    "zona": "Navacerrada",
+    "temperatura": 27.9,
+    "humedad": 38,
+    "viento": 13.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-07-04",
+    "zona": "Navacerrada",
+    "temperatura": 28.2,
+    "humedad": 35,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-05",
+    "zona": "Navacerrada",
+    "temperatura": 25.1,
+    "humedad": 52,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-06",
+    "zona": "Navacerrada",
+    "temperatura": 25.1,
+    "humedad": 44,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-07",
+    "zona": "Navacerrada",
+    "temperatura": 24.5,
+    "humedad": 49,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-09",
+    "zona": "Navacerrada",
+    "temperatura": 27.3,
+    "humedad": 49,
+    "viento": 0.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-10",
+    "zona": "Navacerrada",
+    "temperatura": 26.6,
+    "humedad": 32,
+    "viento": 0.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-11",
+    "zona": "Navacerrada",
+    "temperatura": 21.9,
+    "humedad": 39,
+    "viento": 0.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-12",
+    "zona": "Navacerrada",
+    "temperatura": 20.1,
+    "humedad": 60,
+    "viento": 0.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-13",
+    "zona": "Navacerrada",
+    "temperatura": 24.1,
+    "humedad": 49,
+    "viento": 0.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Navacerrada",
+    "temperatura": 27.2,
+    "humedad": 36,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-16",
+    "zona": "Navacerrada",
+    "temperatura": 30.4,
+    "humedad": 21,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-17",
+    "zona": "Navacerrada",
+    "temperatura": 30.1,
+    "humedad": 19,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-18",
+    "zona": "Navacerrada",
+    "temperatura": 25.7,
+    "humedad": 29,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-19",
+    "zona": "Navacerrada",
+    "temperatura": 22.0,
+    "humedad": 58,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-20",
+    "zona": "Navacerrada",
+    "temperatura": 20.5,
+    "humedad": 58,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-21",
+    "zona": "Navacerrada",
+    "temperatura": 22.0,
+    "humedad": 38,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-22",
+    "zona": "Navacerrada",
+    "temperatura": 25.5,
+    "humedad": 30,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-23",
+    "zona": "Navacerrada",
+    "temperatura": 23.4,
+    "humedad": 53,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-24",
+    "zona": "Navacerrada",
+    "temperatura": 19.9,
+    "humedad": 44,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-25",
+    "zona": "Navacerrada",
+    "temperatura": 21.1,
+    "humedad": 35,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-26",
+    "zona": "Navacerrada",
+    "temperatura": 23.0,
+    "humedad": 27,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-27",
+    "zona": "Navacerrada",
+    "temperatura": 25.7,
+    "humedad": 29,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-28",
+    "zona": "Navacerrada",
+    "temperatura": 22.8,
+    "humedad": 41,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-29",
+    "zona": "Navacerrada",
+    "temperatura": 22.4,
+    "humedad": 45,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-30",
+    "zona": "Navacerrada",
+    "temperatura": 24.7,
+    "humedad": 33,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-31",
+    "zona": "Navacerrada",
+    "temperatura": 25.5,
+    "humedad": 43,
+    "viento": 5.0,
+    "lluvia": 1.6
+  },
+  {
+    "fecha": "2025-08-01",
+    "zona": "Navacerrada",
+    "temperatura": 26.2,
+    "humedad": 47,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-02",
+    "zona": "Navacerrada",
+    "temperatura": 25.5,
+    "humedad": 59,
+    "viento": 9.0,
+    "lluvia": 4.4
+  },
+  {
+    "fecha": "2025-08-03",
+    "zona": "Navacerrada",
+    "temperatura": 27.5,
+    "humedad": 36,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-04",
+    "zona": "Navacerrada",
+    "temperatura": 28.9,
+    "humedad": 31,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-05",
+    "zona": "Navacerrada",
+    "temperatura": 30.7,
+    "humedad": 27,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-06",
+    "zona": "Navacerrada",
+    "temperatura": 29.4,
+    "humedad": 31,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-07",
+    "zona": "Navacerrada",
+    "temperatura": 31.5,
+    "humedad": 23,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-08",
+    "zona": "Navacerrada",
+    "temperatura": 30.9,
+    "humedad": 20,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-09",
+    "zona": "Navacerrada",
+    "temperatura": 31.6,
+    "humedad": 23,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-10",
+    "zona": "Navacerrada",
+    "temperatura": 29.2,
+    "humedad": 26,
+    "viento": 22.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-11",
+    "zona": "Navacerrada",
+    "temperatura": 31.6,
+    "humedad": 36,
+    "viento": 16.9,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-08-12",
+    "zona": "Navacerrada",
+    "temperatura": 32.2,
+    "humedad": 35,
+    "viento": 11.2,
+    "lluvia": 1.0
+  },
+  {
+    "fecha": "2025-08-13",
+    "zona": "Navacerrada",
+    "temperatura": 27.1,
+    "humedad": 36,
+    "viento": 7.9,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-08-14",
+    "zona": "Navacerrada",
+    "temperatura": 28.5,
+    "humedad": 31,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-15",
+    "zona": "Navacerrada",
+    "temperatura": 30.4,
+    "humedad": 27,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-16",
+    "zona": "Navacerrada",
+    "temperatura": 32.8,
+    "humedad": 17,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-17",
+    "zona": "Navacerrada",
+    "temperatura": 30.9,
+    "humedad": 26,
+    "viento": 15.1,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-08-18",
+    "zona": "Navacerrada",
+    "temperatura": 24.1,
+    "humedad": 36,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-19",
+    "zona": "Navacerrada",
+    "temperatura": 20.5,
+    "humedad": 53,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-20",
+    "zona": "Navacerrada",
+    "temperatura": 17.3,
+    "humedad": 58,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-21",
+    "zona": "Navacerrada",
+    "temperatura": 19.5,
+    "humedad": 55,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Navacerrada",
+    "temperatura": 21.2,
+    "humedad": 46,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-23",
+    "zona": "Navacerrada",
+    "temperatura": 25.7,
+    "humedad": 38,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-24",
+    "zona": "Navacerrada",
+    "temperatura": 25.6,
+    "humedad": 31,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-25",
+    "zona": "Navacerrada",
+    "temperatura": 26.1,
+    "humedad": 37,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-26",
+    "zona": "Navacerrada",
+    "temperatura": 26.6,
+    "humedad": 49,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-27",
+    "zona": "Navacerrada",
+    "temperatura": 23.3,
+    "humedad": 51,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-28",
+    "zona": "Navacerrada",
+    "temperatura": 15.7,
+    "humedad": 64,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-29",
+    "zona": "Navacerrada",
+    "temperatura": 16.8,
+    "humedad": 76,
+    "viento": 16.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-30",
+    "zona": "Navacerrada",
+    "temperatura": 24.2,
+    "humedad": 62,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-31",
+    "zona": "Navacerrada",
+    "temperatura": 18.5,
+    "humedad": 58,
+    "viento": 13.0,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-09-01",
+    "zona": "Navacerrada",
+    "temperatura": 12.2,
+    "humedad": 70,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-02",
+    "zona": "Navacerrada",
+    "temperatura": 16.6,
+    "humedad": 58,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-03",
+    "zona": "Navacerrada",
+    "temperatura": 24.4,
+    "humedad": 44,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-04",
+    "zona": "Navacerrada",
+    "temperatura": 18.7,
+    "humedad": 59,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-05",
+    "zona": "Navacerrada",
+    "temperatura": 22.2,
+    "humedad": 40,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-06",
+    "zona": "Navacerrada",
+    "temperatura": 22.5,
+    "humedad": 61,
+    "viento": 20.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-07",
+    "zona": "Navacerrada",
+    "temperatura": 17.8,
+    "humedad": 71,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-08",
+    "zona": "Navacerrada",
+    "temperatura": 18.3,
+    "humedad": 70,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-09",
+    "zona": "Navacerrada",
+    "temperatura": 15.0,
+    "humedad": 68,
+    "viento": 7.9,
+    "lluvia": 0.6
+  },
+  {
+    "fecha": "2025-09-10",
+    "zona": "Navacerrada",
+    "temperatura": 11.7,
+    "humedad": 97,
+    "viento": 11.9,
+    "lluvia": 1.4
+  },
+  {
+    "fecha": "2025-09-11",
+    "zona": "Navacerrada",
+    "temperatura": 17.6,
+    "humedad": 65,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-12",
+    "zona": "Navacerrada",
+    "temperatura": 20.8,
+    "humedad": 65,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-13",
+    "zona": "Navacerrada",
+    "temperatura": 19.7,
+    "humedad": 49,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-14",
+    "zona": "Navacerrada",
+    "temperatura": 22.7,
+    "humedad": 55,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-15",
+    "zona": "Navacerrada",
+    "temperatura": 22.6,
+    "humedad": 51,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-16",
+    "zona": "Navacerrada",
+    "temperatura": 25.6,
+    "humedad": 36,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-17",
+    "zona": "Navacerrada",
+    "temperatura": 27.4,
+    "humedad": 31,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-18",
+    "zona": "Navacerrada",
+    "temperatura": 27.1,
+    "humedad": 32,
+    "viento": 15.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-19",
+    "zona": "Navacerrada",
+    "temperatura": 25.1,
+    "humedad": 42,
+    "viento": 11.9,
+    "lluvia": 1.6
+  },
+  {
+    "fecha": "2025-09-20",
+    "zona": "Navacerrada",
+    "temperatura": 22.9,
+    "humedad": 54,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-21",
+    "zona": "Navacerrada",
+    "temperatura": 13.1,
+    "humedad": 70,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-22",
+    "zona": "Navacerrada",
+    "temperatura": 10.1,
+    "humedad": 69,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-23",
+    "zona": "Navacerrada",
+    "temperatura": 11.5,
+    "humedad": 66,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-24",
+    "zona": "Navacerrada",
+    "temperatura": 12.6,
+    "humedad": 46,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-25",
+    "zona": "Navacerrada",
+    "temperatura": 14.7,
+    "humedad": 44,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-26",
+    "zona": "Navacerrada",
+    "temperatura": 17.5,
+    "humedad": 33,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-27",
+    "zona": "Navacerrada",
+    "temperatura": 18.9,
+    "humedad": 38,
+    "viento": 16.9,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-09-28",
+    "zona": "Navacerrada",
+    "temperatura": 10.8,
+    "humedad": 87,
+    "viento": 14.0,
+    "lluvia": 3.0
+  },
+  {
+    "fecha": "2025-09-29",
+    "zona": "Navacerrada",
+    "temperatura": 13.8,
+    "humedad": 82,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-09-30",
+    "zona": "Navacerrada",
+    "temperatura": 14.3,
+    "humedad": 80,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-01",
+    "zona": "Navacerrada",
+    "temperatura": 17.1,
+    "humedad": 56,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-02",
+    "zona": "Navacerrada",
+    "temperatura": 19.4,
+    "humedad": 26,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-03",
+    "zona": "Navacerrada",
+    "temperatura": 18.7,
+    "humedad": 40,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-04",
+    "zona": "Navacerrada",
+    "temperatura": 19.5,
+    "humedad": 56,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-05",
+    "zona": "Navacerrada",
+    "temperatura": 17.0,
+    "humedad": 58,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-07",
+    "zona": "Navacerrada",
+    "temperatura": 21.0,
+    "humedad": 55,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-08",
+    "zona": "Navacerrada",
+    "temperatura": 18.7,
+    "humedad": 64,
+    "viento": 10.1,
+    "lluvia": 3.2
+  },
+  {
+    "fecha": "2025-10-09",
+    "zona": "Navacerrada",
+    "temperatura": 14.5,
+    "humedad": 71,
+    "viento": 6.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Navacerrada",
+    "temperatura": 15.6,
+    "humedad": 73,
+    "viento": 11.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-11",
+    "zona": "Navacerrada",
+    "temperatura": 15.2,
+    "humedad": 73,
+    "viento": 14.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-12",
+    "zona": "Navacerrada",
+    "temperatura": 13.0,
+    "humedad": 81,
+    "viento": 10.1,
+    "lluvia": 0.4
+  },
+  {
+    "fecha": "2025-10-13",
+    "zona": "Navacerrada",
+    "temperatura": 16.7,
+    "humedad": 76,
+    "viento": 10.1,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-10-14",
+    "zona": "Navacerrada",
+    "temperatura": 14.9,
+    "humedad": 66,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-15",
+    "zona": "Navacerrada",
+    "temperatura": 15.4,
+    "humedad": 57,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-16",
+    "zona": "Navacerrada",
+    "temperatura": 18.4,
+    "humedad": 56,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-17",
+    "zona": "Navacerrada",
+    "temperatura": 15.1,
+    "humedad": 71,
+    "viento": 11.2,
+    "lluvia": 7.2
+  },
+  {
+    "fecha": "2025-10-18",
+    "zona": "Navacerrada",
+    "temperatura": 17.1,
+    "humedad": 60,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-19",
+    "zona": "Navacerrada",
+    "temperatura": 13.4,
+    "humedad": 72,
+    "viento": 29.2,
+    "lluvia": 4.0
+  },
+  {
+    "fecha": "2025-10-20",
+    "zona": "Navacerrada",
+    "temperatura": 10.8,
+    "humedad": 91,
+    "viento": 10.1,
+    "lluvia": 19.6
+  },
+  {
+    "fecha": "2025-10-21",
+    "zona": "Navacerrada",
+    "temperatura": 11.5,
+    "humedad": 98,
+    "viento": 15.8,
+    "lluvia": 18.2
+  },
+  {
+    "fecha": "2025-10-22",
+    "zona": "Navacerrada",
+    "temperatura": 10.8,
+    "humedad": 94,
+    "viento": 16.9,
+    "lluvia": 9.8
+  },
+  {
+    "fecha": "2025-10-23",
+    "zona": "Navacerrada",
+    "temperatura": 10.2,
+    "humedad": 81,
+    "viento": 16.9,
+    "lluvia": 13.0
+  },
+  {
+    "fecha": "2025-10-24",
+    "zona": "Navacerrada",
+    "temperatura": 11.0,
+    "humedad": 99,
+    "viento": 11.9,
+    "lluvia": 1.8
+  },
+  {
+    "fecha": "2025-10-25",
+    "zona": "Navacerrada",
+    "temperatura": 10.5,
+    "humedad": 100,
+    "viento": 10.1,
+    "lluvia": 10.4
+  },
+  {
+    "fecha": "2025-10-26",
+    "zona": "Navacerrada",
+    "temperatura": 6.7,
+    "humedad": 90,
+    "viento": 7.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-27",
+    "zona": "Navacerrada",
+    "temperatura": 12.9,
+    "humedad": 36,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-28",
+    "zona": "Navacerrada",
+    "temperatura": 13.8,
+    "humedad": 41,
+    "viento": 19.1,
+    "lluvia": 10.0
+  },
+  {
+    "fecha": "2025-10-29",
+    "zona": "Navacerrada",
+    "temperatura": 8.3,
+    "humedad": 99,
+    "viento": 13.0,
+    "lluvia": 1.8
+  },
+  {
+    "fecha": "2025-10-30",
+    "zona": "Navacerrada",
+    "temperatura": 9.6,
+    "humedad": 95,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-31",
+    "zona": "Navacerrada",
+    "temperatura": 6.8,
+    "humedad": 100,
+    "viento": 23.0,
+    "lluvia": 1.8
+  },
+  {
+    "fecha": "2025-11-01",
+    "zona": "Navacerrada",
+    "temperatura": 7.4,
+    "humedad": 100,
+    "viento": 18.0,
+    "lluvia": 8.6
+  },
+  {
+    "fecha": "2025-11-02",
+    "zona": "Navacerrada",
+    "temperatura": 4.7,
+    "humedad": 97,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-03",
+    "zona": "Navacerrada",
+    "temperatura": 14.5,
+    "humedad": 50,
+    "viento": 13.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-04",
+    "zona": "Navacerrada",
+    "temperatura": 12.8,
+    "humedad": 51,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-05",
+    "zona": "Navacerrada",
+    "temperatura": 9.7,
+    "humedad": 90,
+    "viento": 22.0,
+    "lluvia": 15.8
+  },
+  {
+    "fecha": "2025-11-06",
+    "zona": "Navacerrada",
+    "temperatura": 1.7,
+    "humedad": 100,
+    "viento": 11.2,
+    "lluvia": 3.4
+  },
+  {
+    "fecha": "2025-11-07",
+    "zona": "Navacerrada",
+    "temperatura": 7.2,
+    "humedad": 100,
+    "viento": 11.2,
+    "lluvia": 22.4
+  },
+  {
+    "fecha": "2025-11-08",
+    "zona": "Navacerrada",
+    "temperatura": 1.8,
+    "humedad": 100,
+    "viento": 15.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-09",
+    "zona": "Navacerrada",
+    "temperatura": 9.5,
+    "humedad": 38,
+    "viento": 5.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-10",
+    "zona": "Navacerrada",
+    "temperatura": 8.0,
+    "humedad": 75,
+    "viento": 6.1,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-11-11",
+    "zona": "Navacerrada",
+    "temperatura": 8.3,
+    "humedad": 84,
+    "viento": 29.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-12",
+    "zona": "Navacerrada",
+    "temperatura": 10.7,
+    "humedad": 60,
+    "viento": 24.8,
+    "lluvia": 1.4
+  },
+  {
+    "fecha": "2025-11-13",
+    "zona": "Navacerrada",
+    "temperatura": 6.9,
+    "humedad": 100,
+    "viento": 32.0,
+    "lluvia": 101.8
+  },
+  {
+    "fecha": "2025-11-14",
+    "zona": "Navacerrada",
+    "temperatura": 5.5,
+    "humedad": 100,
+    "viento": 22.0,
+    "lluvia": 30.2
+  },
+  {
+    "fecha": "2025-11-15",
+    "zona": "Navacerrada",
+    "temperatura": 4.6,
+    "humedad": 100,
+    "viento": 20.2,
+    "lluvia": 26.8
+  },
+  {
+    "fecha": "2025-11-16",
+    "zona": "Navacerrada",
+    "temperatura": 4.8,
+    "humedad": 96,
+    "viento": 15.1,
+    "lluvia": 5.8
+  },
+  {
+    "fecha": "2025-11-17",
+    "zona": "Navacerrada",
+    "temperatura": 3.2,
+    "humedad": 100,
+    "viento": 9.0,
+    "lluvia": 4.2
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Navacerrada",
+    "temperatura": 4.5,
+    "humedad": 78,
+    "viento": 2.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-19",
+    "zona": "Navacerrada",
+    "temperatura": -0.1,
+    "humedad": 90,
+    "viento": 9.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-20",
+    "zona": "Navacerrada",
+    "temperatura": -1.9,
+    "humedad": 97,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-21",
+    "zona": "Navacerrada",
+    "temperatura": -4.3,
+    "humedad": 96,
+    "viento": 20.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-22",
+    "zona": "Navacerrada",
+    "temperatura": -0.4,
+    "humedad": 81,
+    "viento": 15.8,
+    "lluvia": 0.4
+  },
+  {
+    "fecha": "2025-11-23",
+    "zona": "Navacerrada",
+    "temperatura": 2.4,
+    "humedad": 100,
+    "viento": 11.2,
+    "lluvia": 0.6
+  },
+  {
+    "fecha": "2025-11-24",
+    "zona": "Navacerrada",
+    "temperatura": 5.3,
+    "humedad": 100,
+    "viento": 24.1,
+    "lluvia": 18.0
+  },
+  {
+    "fecha": "2025-11-25",
+    "zona": "Navacerrada",
+    "temperatura": -0.3,
+    "humedad": 100,
+    "viento": 16.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-26",
+    "zona": "Navacerrada",
+    "temperatura": -2.6,
+    "humedad": 99,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-27",
+    "zona": "Navacerrada",
+    "temperatura": 0.5,
+    "humedad": 100,
+    "viento": 10.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-28",
+    "zona": "Navacerrada",
+    "temperatura": 7.6,
+    "humedad": 65,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-29",
+    "zona": "Navacerrada",
+    "temperatura": 5.4,
+    "humedad": 70,
+    "viento": 5.0,
+    "lluvia": 11.0
+  },
+  {
+    "fecha": "2025-11-30",
+    "zona": "Navacerrada",
+    "temperatura": 0.9,
+    "humedad": 100,
+    "viento": 11.2,
+    "lluvia": 0.8
+  },
+  {
+    "fecha": "2025-12-01",
+    "zona": "Navacerrada",
+    "temperatura": 5.3,
+    "humedad": 56,
+    "viento": 7.9,
+    "lluvia": 1.4
+  },
+  {
+    "fecha": "2025-12-02",
+    "zona": "Navacerrada",
+    "temperatura": 2.1,
+    "humedad": 97,
+    "viento": 6.8,
+    "lluvia": 5.8
+  },
+  {
+    "fecha": "2025-12-03",
+    "zona": "Navacerrada",
+    "temperatura": -1.7,
+    "humedad": 97,
+    "viento": 18.0,
+    "lluvia": 6.6
+  },
+  {
+    "fecha": "2025-12-04",
+    "zona": "Navacerrada",
+    "temperatura": 0.7,
+    "humedad": 100,
+    "viento": 22.0,
+    "lluvia": 7.2
+  },
+  {
+    "fecha": "2025-12-05",
+    "zona": "Navacerrada",
+    "temperatura": 4.4,
+    "humedad": 100,
+    "viento": 15.1,
+    "lluvia": 8.8
+  },
+  {
+    "fecha": "2025-12-06",
+    "zona": "Navacerrada",
+    "temperatura": 6.2,
+    "humedad": 100,
+    "viento": 11.2,
+    "lluvia": 5.0
+  },
+  {
+    "fecha": "2025-12-07",
+    "zona": "Navacerrada",
+    "temperatura": 4.6,
+    "humedad": 100,
+    "viento": 4.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-08",
+    "zona": "Navacerrada",
+    "temperatura": 9.3,
+    "humedad": 49,
+    "viento": 11.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-09",
+    "zona": "Navacerrada",
+    "temperatura": 5.5,
+    "humedad": 73,
+    "viento": 34.9,
+    "lluvia": 16.2
+  },
+  {
+    "fecha": "2025-12-10",
+    "zona": "Navacerrada",
+    "temperatura": 4.1,
+    "humedad": 99,
+    "viento": 9.0,
+    "lluvia": 1.4
+  },
+  {
+    "fecha": "2025-12-11",
+    "zona": "Navacerrada",
+    "temperatura": 4.3,
+    "humedad": 97,
+    "viento": 14.0,
+    "lluvia": 3.4
+  },
+  {
+    "fecha": "2025-12-12",
+    "zona": "Navacerrada",
+    "temperatura": 1.7,
+    "humedad": 100,
+    "viento": 24.8,
+    "lluvia": 2.0
+  },
+  {
+    "fecha": "2025-12-13",
+    "zona": "Navacerrada",
+    "temperatura": 4.6,
+    "humedad": 94,
+    "viento": 16.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-14",
+    "zona": "Navacerrada",
+    "temperatura": 3.1,
+    "humedad": 94,
+    "viento": 16.9,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-15",
+    "zona": "Navacerrada",
+    "temperatura": 2.6,
+    "humedad": 100,
+    "viento": 18.0,
+    "lluvia": 23.8
+  },
+  {
+    "fecha": "2025-12-16",
+    "zona": "Navacerrada",
+    "temperatura": 0.4,
+    "humedad": 100,
+    "viento": 13.0,
+    "lluvia": 20.2
+  },
+  {
+    "fecha": "2025-12-17",
+    "zona": "Navacerrada",
+    "temperatura": 3.9,
+    "humedad": 95,
+    "viento": 11.2,
+    "lluvia": 0.4
+  },
+  {
+    "fecha": "2025-12-18",
+    "zona": "Navacerrada",
+    "temperatura": 1.5,
+    "humedad": 100,
+    "viento": 29.9,
+    "lluvia": 0.2
+  },
+  {
+    "fecha": "2025-12-19",
+    "zona": "Navacerrada",
+    "temperatura": 1.1,
+    "humedad": 99,
+    "viento": 13.0,
+    "lluvia": 5.2
+  },
+  {
+    "fecha": "2025-12-20",
+    "zona": "Navacerrada",
+    "temperatura": 0.6,
+    "humedad": 100,
+    "viento": 15.1,
+    "lluvia": 15.0
+  },
+  {
+    "fecha": "2025-12-21",
+    "zona": "Navacerrada",
+    "temperatura": -1.4,
+    "humedad": 99,
+    "viento": 7.9,
+    "lluvia": 6.0
+  },
+  {
+    "fecha": "2025-12-22",
+    "zona": "Navacerrada",
+    "temperatura": -3.6,
+    "humedad": 98,
+    "viento": 14.0,
+    "lluvia": 4.0
+  },
+  {
+    "fecha": "2025-12-23",
+    "zona": "Navacerrada",
+    "temperatura": -0.9,
+    "humedad": 99,
+    "viento": 9.0,
+    "lluvia": 1.6
+  },
+  {
+    "fecha": "2025-12-24",
+    "zona": "Navacerrada",
+    "temperatura": -0.1,
+    "humedad": 99,
+    "viento": 6.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-12-25",
+    "zona": "Navacerrada",
+    "temperatura": -3.0,
+    "humedad": 99,
+    "viento": 6.1,
+    "lluvia": 0.8
+  },
+  {
+    "fecha": "2025-12-26",
+    "zona": "Navacerrada",
+    "temperatura": -0.3,
+    "humedad": 98,
+    "viento": 9.0,
+    "lluvia": 0.8
+  },
+  {
+    "fecha": "2025-12-27",
+    "zona": "Navacerrada",
+    "temperatura": -0.9,
+    "humedad": 100,
+    "viento": 29.9,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Navacerrada",
+    "temperatura": -0.1,
+    "humedad": 100,
+    "viento": 18.0,
+    "lluvia": 2.8
+  },
+  {
+    "fecha": "2025-12-29",
+    "zona": "Navacerrada",
+    "temperatura": 1.0,
+    "humedad": 99,
+    "viento": 6.8,
+    "lluvia": 6.2
+  },
+  {
+    "fecha": "2025-12-30",
+    "zona": "Navacerrada",
+    "temperatura": 0.6,
+    "humedad": 97,
+    "viento": 9.0,
+    "lluvia": 2.2
+  },
+  {
+    "fecha": "2025-12-31",
+    "zona": "Navacerrada",
+    "temperatura": 1.5,
+    "humedad": 77,
+    "viento": 6.8,
+    "lluvia": 0.0
+  }
+]
