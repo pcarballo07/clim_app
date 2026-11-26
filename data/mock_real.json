@@ -1,0 +1,282 @@
+[
+  {
+    "fecha": "2025-07-15",
+    "zona": "Madrid Centro",
+    "temperatura": 31.8,
+    "humedad": 25.8,
+    "viento": 13.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Madrid Barajas",
+    "temperatura": 30.3,
+    "humedad": 47.1,
+    "viento": 20.5,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Getafe",
+    "temperatura": 32.9,
+    "humedad": 27.6,
+    "viento": 15.4,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Alcalá de Henares",
+    "temperatura": 29.6,
+    "humedad": 31.6,
+    "viento": 17.6,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Aranjuez",
+    "temperatura": 31.6,
+    "humedad": 31.0,
+    "viento": 18.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Colmenar Viejo",
+    "temperatura": 29.1,
+    "humedad": 31.6,
+    "viento": 20.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-07-15",
+    "zona": "Navacerrada",
+    "temperatura": 24.7,
+    "humedad": 25.2,
+    "viento": 25.3,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Madrid Centro",
+    "temperatura": 29.5,
+    "humedad": 35.2,
+    "viento": 12.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Madrid Barajas",
+    "temperatura": 29.6,
+    "humedad": 35.1,
+    "viento": 12.3,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Getafe",
+    "temperatura": 28.5,
+    "humedad": 50.4,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Alcalá de Henares",
+    "temperatura": 28.9,
+    "humedad": 46.9,
+    "viento": 18.0,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Aranjuez",
+    "temperatura": 31.3,
+    "humedad": 36.4,
+    "viento": 16.7,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Colmenar Viejo",
+    "temperatura": 27.3,
+    "humedad": 43.6,
+    "viento": 24.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-08-22",
+    "zona": "Navacerrada",
+    "temperatura": 21.7,
+    "humedad": 46.1,
+    "viento": 14.6,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Madrid Centro",
+    "temperatura": 16.8,
+    "humedad": 33.7,
+    "viento": 11.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Madrid Barajas",
+    "temperatura": 16.4,
+    "humedad": 28.0,
+    "viento": 14.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Getafe",
+    "temperatura": 18.3,
+    "humedad": 35.9,
+    "viento": 14.7,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Alcalá de Henares",
+    "temperatura": 16.0,
+    "humedad": 33.0,
+    "viento": 23.6,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Aranjuez",
+    "temperatura": 19.1,
+    "humedad": 43.3,
+    "viento": 11.4,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Colmenar Viejo",
+    "temperatura": 15.5,
+    "humedad": 29.9,
+    "viento": 17.3,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-10-10",
+    "zona": "Navacerrada",
+    "temperatura": 11.2,
+    "humedad": 44.2,
+    "viento": 21.8,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Madrid Centro",
+    "temperatura": 10.6,
+    "humedad": 88.9,
+    "viento": 20.9,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Madrid Barajas",
+    "temperatura": 8.6,
+    "humedad": 78.3,
+    "viento": 14.7,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Getafe",
+    "temperatura": 11.8,
+    "humedad": 89.5,
+    "viento": 13.9,
+    "lluvia": 6.4
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Alcalá de Henares",
+    "temperatura": 10.4,
+    "humedad": 81.2,
+    "viento": 14.2,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Aranjuez",
+    "temperatura": 11.5,
+    "humedad": 77.3,
+    "viento": 17.2,
+    "lluvia": 6.5
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Colmenar Viejo",
+    "temperatura": 7.0,
+    "humedad": 92.0,
+    "viento": 19.1,
+    "lluvia": 0.0
+  },
+  {
+    "fecha": "2025-11-18",
+    "zona": "Navacerrada",
+    "temperatura": 1.6,
+    "humedad": 74.2,
+    "viento": 22.8,
+    "lluvia": 6.8
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Madrid Centro",
+    "temperatura": 5.4,
+    "humedad": 79.6,
+    "viento": 23.9,
+    "lluvia": 13.6
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Madrid Barajas",
+    "temperatura": 6.8,
+    "humedad": 72.2,
+    "viento": 21.1,
+    "lluvia": 8.2
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Getafe",
+    "temperatura": 6.3,
+    "humedad": 84.8,
+    "viento": 11.1,
+    "lluvia": 7.2
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Alcalá de Henares",
+    "temperatura": 6.7,
+    "humedad": 89.5,
+    "viento": 14.2,
+    "lluvia": 3.7
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Aranjuez",
+    "temperatura": 8.6,
+    "humedad": 89.4,
+    "viento": 13.2,
+    "lluvia": 9.1
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Colmenar Viejo",
+    "temperatura": 3.1,
+    "humedad": 87.3,
+    "viento": 19.6,
+    "lluvia": 8.1
+  },
+  {
+    "fecha": "2025-12-28",
+    "zona": "Navacerrada",
+    "temperatura": -2.3,
+    "humedad": 78.5,
+    "viento": 14.3,
+    "lluvia": 12.5
+  }
+]
