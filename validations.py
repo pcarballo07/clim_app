@@ -49,3 +49,11 @@ def validate_all_ranges(temp: float, humidity: float, wind: float, rain: float) 
     if not validate_rain(rain):
         return False, "Error: La lluvia debe ser mayor o igual a 0 mm."
     return True, "OK"
+
+def is_duplicate(data: list, date_app: str, zone: str) -> bool:
+    """Comprueba si ya existe un registro para esa misma fecha y zona."""
+    for register in data:
+        if register["fecha"] == date_app and register["zona"].lower() == zone.lower():
+            return True
+    return False
+

@@ -1,4 +1,8 @@
-from store import download
+from store import download, save_data
+from validations import is_duplicate
+from datetime import date
+
+path_file = "data/mock_real.json"
 
 def register():
     print("\n--- FORMULARIO DE REGISTRO ---")
@@ -7,9 +11,36 @@ def register():
     mock = download()
     print(f"📊 Estado antes del registro: Hay {len(mock)} registros guardados.")
 
-    zone = input("Escribe el nombre del parque: ")
-    temperature = input("Escribe la temperatureeratura (ºC): ")
-    print(f"✅ ¡Genial! Acabas de capturar por consola: {zone} a {temperature}ºC.")
+    date_app = date.today().strftime("%Y-%m-%d")
+    print(f"Captura de datos para la fecha: {date_app}")
+    zone = input("Escribe el nombre de la zona: ")
+    temperature = input("Escribe la temperatura (ºC): ")
+    humidity = input("Escribe la humedad (%): ")
+    wind = input("Escribe la velocidad del viento (km/h): ")
+    rain = input("Escribe el volumen de precipitacion (mm): ")
+    print(f"Informe: {date_app} {zone} {temperature} {humidity} {wind} {rain} ")
+
+    if is_duplicate(mock, date_app, zone):
+        print(f"Registro duplicado")
+        return False
+    else:
+        print(f"No existe duplicado")
+    
+    print(type(mock))
+
+    new_register = {
+        "fecha": date_app, 
+        "zona": zone,
+        "temperatura": temperature,
+        "humedad": humidity,
+        "viento": wind,
+        "lluvia": rain
+    } 
+
+    mock.append(new_register)
+    print(f"📊 Estado después del registro: Hay {len(mock)} registros guardados.")
+    
+    save_data(mock, path_file)
 
 def search():
     print("\n--- CONSULTA POR zone ---")
