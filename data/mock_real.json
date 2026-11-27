@@ -1,13 +1,5 @@
 [
     {
-        "fecha": "2026-11-26",
-        "zona": "Madrid Centro",
-        "temperatura": 37.7,
-        "humedad": 25,
-        "viento": 10.1,
-        "lluvia": 0.0
-    },
-    {
         "fecha": "2025-07-02",
         "zona": "Navacerrada",
         "temperatura": 37.5,
@@ -110,5 +102,45 @@
         "humedad": "36",
         "viento": "25",
         "lluvia": "2"
+    },
+    {
+        "fecha": "2026-11-27",
+        "zona": "Getafe",
+        "temperatura": 20.0,
+        "humedad": 90.0,
+        "viento": 100.0,
+        "lluvia": 400.0
+    },
+    {
+        "fecha": "2026-11-27",
+        "zona": "Madrid Centro",
+        "temperatura": 49.0,
+        "humedad": 25.0,
+        "viento": 90.0,
+        "lluvia": 0.0
+    },
+    {
+        "fecha": "2026-11-27",
+        "zona": "Colmenar Viejo",
+        "temperatura": 30.0,
+        "humedad": 40.0,
+        "viento": 50.0,
+        "lluvia": 60.0
+    },
+    {
+        "fecha": "2026-11-27",
+        "zona": "Alcalá de Henares",
+        "temperatura": 50.0,
+        "humedad": 20.0,
+        "viento": 30.0,
+        "lluvia": 40.0
+    },
+    {
+        "fecha": "2026-11-27",
+        "zona": "Madrid Barajas",
+        "temperatura": 10.0,
+        "humedad": 20.0,
+        "viento": 30.0,
+        "lluvia": 40.0
     }
 ]
