@@ -18,3 +18,9 @@ def download(path: str = path_file) -> list:
     except json.JSONDecodeError:
         # Si el archivo está vacío o corrupto, devolvemos lista vacía
         return []
+
+
+def save_data(datos: list, path: str) -> None:
+    """Guarda la lista actualizada en el JSON."""
+    with open(path, "w", encoding="utf-8") as archivo:
+        json.dump(datos, archivo, indent=4, ensure_ascii=False)
